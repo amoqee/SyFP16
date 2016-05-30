@@ -11,4 +11,9 @@ package E1;
  */
 public class Cesar {
     
+   public String cifrar(String m, int c){
+     
+       for(int num = 1 )
+   }
+    
 }
