@@ -11,9 +11,42 @@ package E1;
  */
 public class Cesar {
     
-   public String cifrar(String m, int c){
+   public String cifrar(String mensaje, int constante){
+       String resultado = "";
      
-       for(int num = 1 )
+       for(int i=0; i<mensaje.length(); i++ )
+       {
+          resultado = resultado + (char)(mensaje.charAt(i)+ constante);
+                  
+                      
+                  
+       }
+       return resultado;      
    }
+    
+    public static void main(String[] args) {
+        Cesar c= new Cesar();
+        String s= c.cifrar("hola", 5);
+        System.out.println(s);
+        c.descifrar(s, 5);
+        String i= c.descifrar(s,5);
+        System.out.println(i);
+    }
+        
+       public String descifrar(String mensaje, int constante){
+       String resultado = "";
+     
+       for(int i=0; i<mensaje.length(); i++ )
+       {
+          resultado = resultado + (char)(mensaje.charAt(i)- constante);
+                  
+                      
+                  
+       }
+       return resultado;      
+   }
+    
+   
+        
     
 }
