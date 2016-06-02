@@ -16,9 +16,11 @@ public class Cesar {
      
        for(int i=0; i<mensaje.length(); i++ )
        {
-          resultado = resultado + (char)(mensaje.charAt(i)+ constante);
-                  
-                      
+          if (mensaje.charAt(i)== 10){
+          resultado = resultado + mensaje.charAt(i);}
+          else{
+              resultado = resultado + (char)(mensaje.charAt(i)+ constante);
+          }
                   
        }
        return resultado;      
@@ -38,7 +40,12 @@ public class Cesar {
      
        for(int i=0; i<mensaje.length(); i++ )
        {
-          resultado = resultado + (char)(mensaje.charAt(i)- constante);
+           if (mensaje.charAt(i)== 10){
+          resultado = resultado + mensaje.charAt(i);}
+          else{
+              resultado = resultado + (char)(mensaje.charAt(i)- constante);
+          }
+          //resultado = resultado + (char)(mensaje.charAt(i)- constante);
                   
                       
                   
