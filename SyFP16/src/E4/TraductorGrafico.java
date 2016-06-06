@@ -23,7 +23,7 @@ public class TraductorGrafico extends javax.swing.JFrame {
         
         tat.addKeyListener(new KeyAdapter() {
             String palabra = "";
-            
+                
 
             @Override
             public void keyTyped(KeyEvent e) {
@@ -38,7 +38,7 @@ public class TraductorGrafico extends javax.swing.JFrame {
                 }
                 if( e.getKeyChar()!= ' ' && e.getKeyChar() !=10 && e.getKeyChar() !=8);
                 {
-                    
+                    tt.setText(palabra);
                 }
                 
                 
