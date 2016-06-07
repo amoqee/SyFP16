@@ -14,32 +14,52 @@ import java.awt.event.KeyListener;
  * @author Karen
  */
 public class TraductorGrafico extends javax.swing.JFrame {
+    
+    Traductor d;
+    
 
     /**
      * Creates new form TraductorGrafico
      */
+    
+    
     public TraductorGrafico() {
         initComponents();
+                
+        d=new Traductor();
+        d.agregar("hola", "hola");
+               
         
         tat.addKeyListener(new KeyAdapter() {
             String palabra = "";
+            String traduccion = ";"
+            
                 
 
-            @Override
+            
             public void keyTyped(KeyEvent e) {
-                
-                if(e.getKeyChar()!= ' ' && e.getKeyChar()!=10)
+                char key = e.getKeyChar();
+                if(key != 10 && key != ' ' && key != 8 )
                 {
-                    palabra = palabra + e.getKeyChar();
+                    palabra = palabra + key;
                 }
                 
-                if(e.getKeyChar()== 8){
-                  palabra = palabra.substring(0,palabra.length()-1);
-                }
-                if( e.getKeyChar()!= ' ' && e.getKeyChar() !=10 && e.getKeyChar() !=8);
+                if(key == 8)
                 {
-                    tt.setText(palabra);
+                    palabra = palabra.substring(0, palabra.length()-1);
                 }
+                
+                if(key == 10 || key == ' ')
+                {
+                   traduccion = traduccion + d.traducir(palabra);
+                   palabra = "";
+                }
+                
+                
+                tt.setText(traduccion);
+                
+                
+                
                 
                 
                 super.keyTyped(e); //To change body of generated methods, choose Tools | Templates.

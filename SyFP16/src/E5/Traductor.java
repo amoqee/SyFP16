@@ -3,34 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package E4;
-
-import java.util.ArrayList;
+package E5;
 import java.util.List;
-
 /**
  *
  * @author Karen
  */
 public class Traductor {
+    
     List<String> palabras;
     List<String> traducciones;
     
-    
-    public String eliminar(String borrar){
-        
-        return "-1";
-    }
-    
-    public static void main(String[] args) {
-        Traductor t = new Traductor();
-        t.agregar("reprobar", "fail");
-        List<String> traductor;
-        traductor = new ArrayList();
-        
-    }
-  
-            
     public String traducir(String atraducir){                     
         
          int i= palabras.indexOf(atraducir); 
@@ -48,5 +31,7 @@ public class Traductor {
  public Traductor( ){
      
  }
+         
+ 
     
 }
