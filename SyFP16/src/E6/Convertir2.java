@@ -5,6 +5,9 @@
  */
 package E6;
 
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
 /**
  *
  * @author Karen
@@ -20,25 +23,46 @@ public class Convertir2 extends javax.swing.JFrame {
         cb1.addItem("Yardas");
         cb1.addItem("Millas");
         
-        b1.addActionListener();
+        b1.addActionListener(new ActionListener() {
+
+            @Override
+            public void actionPerformed(ActionEvent e) {
+               String a = tf1.getText();
+               String b = (String)cb2.getSelectedItem();
+               String c = (String)cb1.getSelectedItem();
+               
+               Double p = new Double(a);
+               double f = p.doubleValue();
+               
+               Convertidor3 j = new Convertidor3();
+               
+               
+               
+               
+            }
+        
+        
+        
+    }
         
         
                 
-    }
+  
    
         
 
     /**
      * Creates new form Convertir2
      */
-    public Convertir2() {
+         
+             
         
         
-        
-        initComponents
+
+                
     
     
-    }
+    
 
     /**
      * This method is called from within the constructor to initialize the form.
