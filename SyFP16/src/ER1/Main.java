@@ -12,10 +12,12 @@ package ER1;
 public class Main {
     public static void main(String[] args) {
         
-        IClase i = new Iclase();
-        AClase h = new Aclase();
-        C2 y = new C2();
-        System.out.println(i);
+        IClase i = new C1("JHMH");
+        AClase h = new C3("SDDF");
+        C2 y = new C2("jshh");
+         a.print();
+        
+        
     }
     
 }

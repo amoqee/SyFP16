@@ -9,16 +9,21 @@ package ER1;
  *
  * @author Karen
  */
-public class C1 {
-    public C1 extends IClase;
+public class C1 extends AClase {
+
+    C1(String jhmh) {
+        
+    }
+     public String Descripcion (String descripcion){
+       super(descripcion);
+       
     
-    public C1 implements ACLase;
+    
     
        
     System.out.println(;
     
-    public String Descripcion (String mensaje, int constante){
-       String resultado = "";       
+          
     
     
 

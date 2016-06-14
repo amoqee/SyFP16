@@ -3,23 +3,25 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ER1;
+package E7;
+
+import java.util.List;
 
 /**
  *
  * @author Karen
  */
-public class AClase extends IClase {
-    protected String descripcion;
+public interface IOrdenamiento{
     
-    /**
-     *
-     */
-    public 
-    
-    public void print()
-    {
-        System.out.println(descripcion);
-    }
+   public int [] ordenar(int array[]);
+   public List<Integer>ordenar(List<Integer>array);  
+           
+   
+   
     
 }
+
+
+
+
+
