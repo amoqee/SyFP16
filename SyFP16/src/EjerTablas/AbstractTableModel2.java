@@ -18,16 +18,64 @@ import javax.swing.table.AbstractTableModel;
  * @author Karen
  */
 public class AbstractTableModel2 extends AbstractTableModel {
+    String nombreArchivo;
+    
+    public int contarRenglon() {
+        BufferedReader  n = null;        
+        String row[];
+        i = 0;
+        String linea;
+                
+            try {
+            n = new BufferedReader(new FileReader(nombreArchivo));
+            linea = n.readLine();
+            while(linea != null){                            
+                i = i + 1;
+                linea = n.readLine();         
+        }
+            } catch (IOException ex) {
+                System.out.println("LEER");
+            }
+            
+            return i;
+    }
+    
+    public int contarColumnas(){
+        BufferedReader l = null;
+        String linea;
+                               
+        
+            try {
+                l = new BufferedReader(new FileReader(nombreArchivo));
+                linea = l.readLine();
+                row = linea.split(",");
+                i = row.length;
+                
+            } catch (IOException ex) {
+                System.out.println("CONTAR");
+            }
+        
+        
+        return i;
+   }
+    
+        
+    int i = 0;
+    String row[];                     
+              
+    
+    
     String[][] matriz;
 
     public AbstractTableModel2(String kmnjk) throws IOException {
+        nombreArchivo = kmnjk;
         BufferedReader  bf = null;
-        matriz = new String[101][6];
+        matriz = new String[contarRenglon()][contarColumnas()];
         String row[];
         int i = 0;
                 
         try{
-            bf = new BufferedReader(new FileReader(kmnjk));
+            bf = new BufferedReader(new FileReader(nombreArchivo));
             String linea = bf.readLine();
             while(linea != null){
                 row = linea.split(",");
@@ -35,12 +83,14 @@ public class AbstractTableModel2 extends AbstractTableModel {
                 i = i + 1;
                 linea = bf.readLine();            
         }
-        } catch (FileNotFoundException ex) {
+        } catch (FileNotFoundException ex){
             System.out.println("blah");
         }
         
         
     }
+    
+    
 
     AbstractTableModel2() {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
@@ -48,17 +98,18 @@ public class AbstractTableModel2 extends AbstractTableModel {
 
     @Override
     public int getRowCount() {
-        return 101;
+        return contarRenglon();
     }
 
     @Override
     public int getColumnCount() {
-        return 6;
+        return contarColumnas();
         
     }
 
     @Override
     public Object getValueAt(int rowIndex, int columnIndex) {
+        
         return matriz[rowIndex][columnIndex];
     }
     

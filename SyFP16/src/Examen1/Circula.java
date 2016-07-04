@@ -10,25 +10,25 @@ package Examen1;
  * @author Karen
  */
 public class Circula extends Megalopolis {
-    public String getByPlaca(String digitos ){
+    public String getByPlaca(int digitos ){
         
-        if(digitos = 5,6){
+        if(digitos == 5 && digitos == 6){
             return String lunes;
         }
         
-        if(digitos = 7,8){
+        if(digitos == 7,8){
             return String martes;
         }
         
-        if(digitos = 3,4){
+        if(digitos == 3,4){
             return String miercoles;
         }
         
-        if(digitos = 1,2){
+        if(digitos == 1,2){
             return String jueves;
         }
         
-        if(digitos = 9,0){
+        if(digitos == 9,0){
             return String viernes;
         }  
         
