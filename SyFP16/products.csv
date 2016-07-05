@@ -1,0 +1,1044 @@
+pro_code;man_code;pro_name;pro_description;pro_type;pro_theme;pro_pieces;pro_packaging;pro_shape;pro_style;pro_buy_price;pro_sel_price;pro_stock;pro_stock_min;pro_stock_max
+002SAG;RAV;Stow and Go!;Perfect for puzzles up to 1500 pieces. Mat measures 116.8cm x 66.04cm - 46" x 26";STORAGE;;0;;;;16.08;19.3;16;5;15
+2501GB;GIB;1940s Shopping Basket;;PUZZLE;Food and Drink;1000;Standard;Standard;Standard;20.9;25.08;11;0;75
+2502GB;GIB;1950s Shopping Basket;;PUZZLE;Food and Drink;1000;Standard;Standard;Standard;20.9;25.08;6;0;55
+2503GB;GIB;1960s Shopping Basket;;PUZZLE;Food and Drink;1000;Standard;Standard;Standard;20.9;25.08;14;0;90
+2504GB;GIB;1970s Shopping Basket;;PUZZLE;Food and Drink;1000;Standard;Standard;Standard;20.9;25.08;9;0;60
+2505GB;GIB;A Jolly Good Sport;;PUZZLE;Cars;1000;Standard;Standard;Standard;21.13;25.36;17;0;105
+2506GB;GIB;A Long Night;;PUZZLE;Christmas;500;2 Puzzles in a Box;Standard;Standard;23.31;27.97;6;0;45
+2507GB;GIB;A Peaceful Retreat;;PUZZLE;Artists;0;Standard;Standard;Travel Puzzle;7.76;9.31;47;10;30
+2508GB;GIB;A Perfect View;;PUZZLE;Horses;250;Standard;Standard;Standard;11.55;13.86;15;10;40
+2509GB;GIB;A Summer's Evening;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;21.13;25.36;0;0;20
+2510GB;GIB;A Team Effort;;PUZZLE;Dogs;500;Standard;Standard;Standard;15.42;18.5;49;20;40
+2511GB;GIB;A Year in the Garden;;PUZZLE;Flowers and Gardens;500;4 Puzzles in a Box;Standard;Standard;32.1;38.52;2;0;10
+2512GB;GIB;All Creatures Great and Small;;PUZZLE;Birds;1000;Standard;Standard;Standard;24.69;29.63;11;0;60
+2513GB;GIB;Alphabet Farm;;PUZZLE;Birds;500;Standard;Standard;Standard;21.36;25.63;5;0;35
+2514GB;GIB;Alphabet Seaside;;PUZZLE;Beaches;500;Standard;Standard;Standard;21.36;25.63;8;0;50
+2515GB;GIB;Always On The Go;;PUZZLE;Farm Life;1000;2 Puzzles in a Box;Standard;Standard;32.1;38.52;15;0;95
+2516GB;GIB;An Evening for Romance;;PUZZLE;Caribbean;500;Standard;Standard;Standard;15.42;18.5;20;10;40
+2517GB;GIB;At the Water's Edge;;PUZZLE;Wild;1000;Standard;Standard;Standard;21.13;25.36;6;0;55
+2518GB;GIB;Back from the Fields;;PUZZLE;Farm Life;500;Standard;Standard;Standard;15.42;18.5;47;10;30
+2519GB;GIB;Balloon Festival;;PUZZLE;Miscellany;500;Standard;Standard;Standard;21.36;25.63;8;0;55
+2520GB;GIB;Barnstormers.;;PUZZLE;Airplanes;1000;Standard;Standard;Standard;21.13;25.36;12;0;85
+2521GB;GIB;Battle for the Skies;;PUZZLE;Airplanes;1000;Standard;Standard;Standard;21.13;25.36;18;0;95
+2522GB;GIB;Beautiful Britain East Anglia;;PUZZLE;Lighthouses;1000;Standard;Standard;Standard;21.13;25.36;17;0;100
+2523GB;GIB;Beautiful Britain The Cotswolds;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;21.13;25.36;9;0;60
+2524GB;GIB;Beautiful Britain The Lake District;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;21.13;25.36;2;0;15
+2525GB;GIB;Beautiful Britain The West Country;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;21.13;25.36;4;0;40
+2528GB;GIB;Bird's Eye View;;PUZZLE;Birds;250;Standard;Standard;Standard;11.55;13.86;39;10;50
+2529GB;GIB;Brixham Harbour;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;21.13;25.36;17;0;110
+2530GB;GIB;Broken Biscuits;;PUZZLE;Dogs;500;Standard;Standard;Standard;15.42;18.5;16;20;40
+2531GB;GIB;Bucket and Spade;;PUZZLE;Beaches;1000;Standard;Standard;Standard;21.13;25.36;19;0;105
+2532GB;GIB;Cadbury Collection;;PUZZLE;Food and Drink;1000;Standard;Standard;Standard;21.13;25.36;6;0;40
+2533GB;GIB;Cadbury Heritage;;PUZZLE;Food and Drink;1000;Standard;Standard;Standard;21.13;25.36;13;0;65
+2534GB;GIB;Calm Waters;;PUZZLE;Ocean;500;2 Puzzles in a Box;Standard;Standard;23.31;27.97;19;0;110
+2535GB;GIB;Caravan Holidays;;PUZZLE;Countryside;1000;Standard;Standard;Standard;20.9;25.08;8;0;50
+2536GB;GIB;Catastrophe.;;PUZZLE;Birds;250;Standard;Standard;Standard;11.55;13.86;10;20;30
+2537GB;GIB;Catching the Post;;PUZZLE;Cats;636;Standard;Standard;Standard;17.09;20.51;53;10;40
+2538GB;GIB;Christmas in the Square;;PUZZLE;Christmas;636;Standard;Standard;Standard;17.09;20.51;20;10;50
+2539GB;GIB;Christmas Moonlight;;PUZZLE;Artists;1000;Standard;Standard;Standard;22.98;27.58;16;0;85
+2540GB;GIB;Christmas Shopping;;PUZZLE;Christmas;1000;Standard;Standard;Standard;21.13;25.36;7;0;45
+2541GB;GIB;Clearing Storms & Evening Majesty;;PUZZLE;Artists;1000;2 Puzzles in a Box;Standard;Standard;34.19;41.03;14;0;90
+2542GB;GIB;Clovelly;;PUZZLE;Caribbean;1000;2 Puzzles in a Box;Standard;Standard;32.1;38.52;16;0;90
+2543GB;GIB;Coastal Creatures;;PUZZLE;Birds;1000;Standard;Standard;Standard;21.13;25.36;9;0;60
+2544GB;GIB;Coastal Paths;;PUZZLE;Flowers and Gardens;500;2 Puzzles in a Box;Standard;Standard;23.31;27.97;11;0;55
+2545GB;GIB;Cobblestone Bridge;;PUZZLE;Artists;0;Standard;Standard;Travel Puzzle;7.58;9.1;7;10;40
+2546GB;GIB;Cobblestone Christmas;;PUZZLE;Artists;1000;Standard;Standard;Standard;22.98;27.58;8;0;50
+2547GB;GIB;Cobblestone Evening;;PUZZLE;Artists;1000;Standard;Standard;Standard;22.98;27.58;19;0;110
+2548GB;GIB;Cobblestone Mill;;PUZZLE;Artists;100;Standard;Standard;Travel Puzzle;9.49;11.39;25;20;50
+2549GB;GIB;Country Connection;;PUZZLE;Buses;636;Standard;Standard;Standard;17.09;20.51;48;20;40
+2550GB;GIB;Crail Harbour;;PUZZLE;Harbours;1000;Standard;Standard;Standard;21.13;25.36;16;0;95
+2551GB;GIB;Dairy Fresh.;;PUZZLE;Farm Life;636;Standard;Standard;Standard;17.09;20.51;54;20;30
+2552GB;GIB;Dawn Patrol;;PUZZLE;Birds;500;Standard;Standard;Standard;15.42;18.5;23;10;30
+2553GB;GIB;Elegance and Industry;;PUZZLE;Trains;1000;Standard;Standard;Standard;21.13;25.36;7;0;40
+2554GB;GIB;Endangered Species;;PUZZLE;Wild;1000;Standard;Standard;Standard;21.13;25.36;9;0;65
+2555GB;GIB;European Jigmap;;PUZZLE;Childrens;200;Standard;Standard;Standard;15.42;18.5;15;20;40
+2556GB;GIB;Fairy Tales;;PUZZLE;PreSchool;0;Standard;Standard;Standard;12.36;14.83;59;20;40
+2557GB;GIB;Farmhouse Auction;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;21.13;25.36;0;0;10
+2558GB;GIB;Feathered Friends;;PUZZLE;Birds;1000;Standard;Standard;Standard;21.13;25.36;12;0;75
+2559GB;GIB;Feathered Friends 2;;PUZZLE;Birds;1000;Standard;Standard;Standard;21.13;25.36;4;0;30
+2560GB;GIB;Fisherman's Tavern;;PUZZLE;Cottages;250;Standard;Standard;Standard;11.55;13.86;29;20;40
+2561GB;GIB;Forest Chapel;;PUZZLE;Artists;1000;Standard;Standard;Standard;22.98;27.58;13;0;80
+2562GB;GIB;Gardener's Delight;;PUZZLE;Flowers and Gardens;500;Standard;Standard;Standard;21.36;25.63;17;0;90
+2563GB;GIB;Gateway to Snowdonia;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;20.9;25.08;4;0;20
+2564GB;GIB;Golden years of Beano and Dandy;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;21.13;25.36;1;0;5
+2565GB;GIB;Great British Cars;;PUZZLE;Cars;1000;Standard;Standard;Standard;21.13;25.36;15;0;80
+2566GB;GIB;Great British Garden Fete;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;21.13;25.36;5;0;25
+2567GB;GIB;Great British Seaside!;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;21.13;25.36;6;0;40
+2568GB;GIB;Green and Pleasant Land;;PUZZLE;Caribbean;500;Standard;Standard;Standard;21.36;25.63;14;0;90
+2569GB;GIB;Harvest Lunch.;;PUZZLE;Horses;250;Standard;Standard;Standard;11.55;13.86;48;20;50
+2570GB;GIB;Harvest Time;;PUZZLE;Farm Life;1000;Standard;Standard;Standard;21.13;25.36;20;0;115
+2571GB;GIB;Heads and Tails.;;PUZZLE;Wild;0;Standard;Standard;Standard;12.36;14.83;25;10;40
+2572GB;GIB;Heads and Tails. Farm Animals;;PUZZLE;PreSchool;0;Standard;Standard;Standard;12.36;14.83;22;10;40
+2573GB;GIB;Hell for Leather;;PUZZLE;Cars;636;Standard;Standard;Standard;17.09;20.51;2;20;40
+2574GB;GIB;Henshaws Mobile Shop;;PUZZLE;Food and Drink;1000;Standard;Standard;Standard;21.13;25.36;0;0;25
+2575GB;GIB;Holiday Memories;;PUZZLE;Beaches;500;2 Puzzles in a Box;Standard;Standard;23.31;27.97;3;0;35
+2576GB;GIB;Home Farm;;PUZZLE;Farm Life;500;Standard;Standard;Standard;15.42;18.5;55;10;50
+2577GB;GIB;Home for Christmas;;PUZZLE;Christmas;500;Standard;Standard;Standard;15.42;18.5;23;20;40
+2578GB;GIB;Home from Home;;PUZZLE;Birds;500;Standard;Standard;Standard;15.42;18.5;11;20;40
+2579GB;GIB;I Love Boats!;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;21.13;25.36;15;0;75
+2580GB;GIB;I Love Car Boot Sales!;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;21.13;25.36;5;0;35
+2581GB;GIB;I Love Gardening;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;21.13;25.36;2;0;15
+2582GB;GIB;I Love Great Britain;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;21.13;25.36;15;0;90
+2583GB;GIB;I Love London!;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;21.13;25.36;13;0;80
+2584GB;GIB;I Love Pets!;;PUZZLE;Birds;1000;Standard;Standard;Standard;21.13;25.36;5;0;25
+2585GB;GIB;I Love The Country;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;21.13;25.36;8;0;45
+2586GB;GIB;I Love the Farmyard!;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;21.13;25.36;13;0;90
+2587GB;GIB;I Love the Weekend!;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;21.13;25.36;19;0;105
+2588GB;GIB;In from the Cold;;PUZZLE;Dogs;1000;Standard;Standard;Standard;21.13;25.36;6;0;40
+2589GB;GIB;Jungle Safari ABC;;PUZZLE;Wild;30;Standard;Standard;Standard;18.76;22.51;40;20;40
+2590GB;GIB;Just Looking;;PUZZLE;Birds;500;Standard;Standard;Standard;15.42;18.5;53;20;40
+2591GB;GIB;Just what I wanted;;PUZZLE;Dogs;500;Standard;Standard;Standard;15.42;18.5;30;20;40
+2592GB;GIB;Keeping out the Cold;;PUZZLE;Farm Life;1000;Standard;Standard;Standard;21.13;25.36;19;0;115
+2593GB;GIB;Keeping Watch;;PUZZLE;Birds;1000;Standard;Standard;Standard;21.13;25.36;6;0;40
+2594GB;GIB;Kings of the Road;;PUZZLE;Cars;1000;Standard;Standard;Standard;21.13;25.36;7;0;60
+2595GB;GIB;Kitchen Capers;;PUZZLE;Cats;1000;Standard;Standard;Standard;21.13;25.36;1;0;25
+2596GB;GIB;Lakeside Manor;;PUZZLE;Artists;1000;Standard;Standard;Standard;22.98;27.58;4;0;25
+2598GB;GIB;Late Night Shopping;;PUZZLE;Caribbean;500;2 Puzzles in a Box;Standard;Standard;23.31;27.97;8;0;60
+2599GB;GIB;Lazy Days.;;PUZZLE;Dogs;500;Standard;Standard;Standard;15.42;18.5;30;10;40
+2600GB;GIB;Lending a Hand;;PUZZLE;Farm Life;500;Standard;Standard;Standard;15.18;18.22;20;20;40
+2601GB;GIB;Light of Peace;;PUZZLE;Lighthouses;0;Standard;Standard;Travel Puzzle;7.58;9.1;35;20;40
+2603GB;GIB;London;;PUZZLE;Artists;1000;Standard;Standard;Standard;22.98;27.58;10;0;75
+2604GB;GIB;London - Looking North;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;21.13;25.36;2;0;20
+2605GB;GIB;Lunchtime Stopover;;PUZZLE;Landscapes;1000;Standard;Standard;Standard;21.13;25.36;15;0;75
+2606GB;GIB;Magic of the Seasons;;PUZZLE;Cottages;500;4 Puzzles in a Box;Standard;Standard;34.19;41.03;10;0;75
+2607GB;GIB;Man's Best Friend;;PUZZLE;Dogs;1000;Standard;Standard;Standard;21.13;25.36;7;0;50
+2608GB;GIB;Meeting the Neighbours;;PUZZLE;Horses;1000;Standard;Standard;Standard;21.13;25.36;6;0;50
+2609GB;GIB;Memories of Steam;;PUZZLE;Boats;1000;Standard;Standard;Standard;21.13;25.36;9;0;55
+2610GB;GIB;Mevagissey;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;21.13;25.36;2;0;15
+2611GB;GIB;Midday Regatta;;PUZZLE;Boats;500;Standard;Standard;Standard;21.36;25.63;12;0;70
+2612GB;GIB;Mighty Midgets;;PUZZLE;Trains;500;Standard;Standard;Standard;15.42;18.5;53;10;30
+2613GB;GIB;Migration;;PUZZLE;Sealife;1000;Standard;Standard;Standard;21.13;25.36;0;0;5
+2614GB;GIB;Miller's Cottage;;PUZZLE;Artists;1000;Standard;Standard;Standard;22.98;27.58;12;0;80
+2616GB;GIB;Mountain Paradise;;PUZZLE;Artists;1000;Standard;Standard;Standard;22.98;27.58;17;0;110
+2617GB;GIB;Mountain Retreat;;PUZZLE;Wild;1500;Standard;Standard;Standard;26.87;32.24;3;0;20
+2618GB;GIB;Mountains and Moorlands;;PUZZLE;Birds;1000;Standard;Standard;Standard;21.13;25.36;10;0;65
+2619GB;GIB;My School Day;;PUZZLE;PreSchool;0;Standard;Circular Puzzle;Standard;12.54;15.05;52;20;40
+2620GB;GIB;My Weekend;;PUZZLE;PreSchool;0;Standard;Circular Puzzle;Standard;12.54;15.05;20;20;30
+2621GB;GIB;My Weekend.;;PUZZLE;Childrens;0;Standard;Circular Puzzle;Standard;12.54;15.05;36;10;50
+2622GB;GIB;National Trust;;PUZZLE;Birds;250;Standard;Standard;Standard;11.64;13.97;51;20;30
+2623GB;GIB;National Trust. Heritage 2;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;21.13;25.36;12;0;65
+2624GB;GIB;Nature's Gathering;;PUZZLE;Farm Life;500;2 Puzzles in a Box;Standard;Standard;23.31;27.97;13;0;80
+2625GB;GIB;Neck and Neck;;PUZZLE;Cars;500;Standard;Standard;Standard;15.42;18.5;21;20;40
+2626GB;GIB;Never A Dull Moment;;PUZZLE;Farm Life;1000;2 Puzzles in a Box;Standard;Standard;32.1;38.52;3;0;15
+2627GB;GIB;Newquay;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;21.13;25.36;9;0;70
+2628GB;GIB;No Stone Unturned;;PUZZLE;Beaches;1000;Standard;Standard;Standard;21.13;25.36;8;0;60
+2629GB;GIB;Nursery Rhymes;;PUZZLE;PreSchool;0;Standard;Standard;Standard;12.36;14.83;44;10;40
+2630GB;GIB;Olde Christmas;;PUZZLE;Christmas;1000;Standard;Standard;Standard;21.13;25.36;19;0;115
+2631GB;GIB;Out And About;;PUZZLE;Buses;1000;Standard;Standard;Standard;21.13;25.36;19;0;110
+2632GB;GIB;Packhorse Bridge;;PUZZLE;Cottages;1000;Standard;Standard;Standard;21.13;25.36;2;0;10
+2633GB;GIB;Padstow Harbour;;PUZZLE;Harbours;1000;Standard;Standard;Standard;21.13;25.36;11;0;55
+2634GB;GIB;Paris and San Francisco;;PUZZLE;Artists;1000;2 Puzzles in a Box;Standard;Standard;34.19;41.03;5;0;35
+2635GB;GIB;Parisian Market;;PUZZLE;Flowers and Gardens;1000;Standard;Standard;Standard;21.13;25.36;17;0;95
+2636GB;GIB;Passing Through;;PUZZLE;Cars;1000;Standard;Standard;Standard;21.13;25.36;16;0;85
+2637GB;GIB;Piggy in the Middle;;PUZZLE;Dogs;636;Standard;Standard;Standard;17.09;20.51;28;20;40
+2638GB;GIB;Pit Stop;;PUZZLE;Horses;500;Standard;Standard;Standard;15.42;18.5;54;10;40
+2639GB;GIB;Pole Position;;PUZZLE;Cars;1000;Standard;Standard;Standard;21.13;25.36;15;0;80
+2640GB;GIB;Pools of Serenity;;PUZZLE;Artists;1000;Standard;Standard;Standard;22.98;27.58;16;0;90
+2641GB;GIB;Port Isaac;;PUZZLE;Caribbean;500;Standard;Standard;Standard;15.42;18.5;1;20;30
+2642GB;GIB;Postcards from Ireland;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;21.13;25.36;14;0;70
+2643GB;GIB;Postcards from Ireland 2;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;21.13;25.36;0;0;10
+2644GB;GIB;Postcards from Scotland 1;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;21.13;25.36;8;0;45
+2645GB;GIB;Postcards from Scotland 2;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;21.13;25.36;1;0;10
+2646GB;GIB;Pot of Gold;;PUZZLE;Harbours;250;Standard;Standard;Standard;11.55;13.86;35;20;40
+2647GB;GIB;Pussy Galore;;PUZZLE;Birds;1000;Standard;Standard;Standard;21.13;25.36;16;0;100
+2648GB;GIB;Rainy Day Stroll;;PUZZLE;Flowers and Gardens;1000;Standard;Standard;Standard;21.13;25.36;7;0;35
+2649GB;GIB;Ready to Go;;PUZZLE;Buses;636;Standard;Standard;Standard;17.09;20.51;46;10;40
+2650GB;GIB;Sharing the Moment;;PUZZLE;Waterways;1000;Standard;Standard;Standard;21.13;25.36;15;0;80
+2651GB;GIB;Southern Suburbia;;PUZZLE;Trains;636;Standard;Standard;Standard;17.09;20.51;3;20;40
+2652GB;GIB;St. Andrews;;PUZZLE;Famous Landmarks;636;Standard;Standard;Standard;17.09;20.51;3;20;30
+2653GB;GIB;St. Ives;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;21.13;25.36;17;0;105
+2654GB;GIB;Staithes;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;21.13;25.36;8;0;45
+2655GB;GIB;Starry Night;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;21.13;25.36;14;0;90
+2656GB;GIB;Summer of 47;;PUZZLE;Waterways;636;Standard;Standard;Standard;17.09;20.51;12;20;40
+2657GB;GIB;Sunday Afternoon;;PUZZLE;Countryside;500;Standard;Standard;Standard;21.36;25.63;8;0;55
+2658GB;GIB;Sunlit Square;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;21.13;25.36;19;0;110
+2659GB;GIB;Sunset on Lamplight Lane;;PUZZLE;Thomas Kinkade;1000;Standard;Standard;Standard;22.98;27.58;7;0;40
+2660GB;GIB;Swan Lake;;PUZZLE;Birds;1000;Standard;Standard;Standard;21.13;25.36;14;0;80
+2661GB;GIB;Sweet Memories 1940s;;PUZZLE;Food and Drink;1000;Standard;Standard;Standard;21.13;25.36;6;0;45
+2662GB;GIB;Sweet Memories 1950s;;PUZZLE;Food and Drink;1000;Standard;Standard;Standard;21.13;25.36;7;0;50
+2663GB;GIB;Sweet Memories 1960s;;PUZZLE;Food and Drink;1000;Standard;Standard;Standard;21.13;25.36;18;0;95
+2664GB;GIB;Sweet Memories 1970s;;PUZZLE;Food and Drink;1000;Standard;Standard;Standard;21.13;25.36;13;0;70
+2665GB;GIB;The Age of Steam;;PUZZLE;Trains;1000;Standard;Standard;Standard;21.13;25.36;19;0;100
+2666GB;GIB;The Dog Show;;PUZZLE;Dogs;500;Standard;Standard;Standard;21.36;25.63;4;0;35
+2667GB;GIB;The Evacuees;;PUZZLE;Buses;1000;Standard;Standard;Standard;21.13;25.36;17;0;105
+2668GB;GIB;The Excursion;;PUZZLE;Buses;636;Standard;Standard;Standard;17.09;20.51;39;10;40
+2669GB;GIB;The Final Touches;;PUZZLE;Dogs;250;Standard;Standard;Standard;11.55;13.86;9;10;30
+2670GB;GIB;The Garden Shed;;PUZZLE;Farm Life;500;Standard;Standard;Standard;15.42;18.5;32;20;40
+2671GB;GIB;The Garden Shop;;PUZZLE;Birds;500;Standard;Standard;Standard;21.36;25.63;9;0;45
+2672GB;GIB;The Great British Barbeque!;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;21.13;25.36;17;0;95
+2673GB;GIB;The Great British Pub;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;21.13;25.36;8;0;45
+2674GB;GIB;The Great British Supermarket!;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;21.13;25.36;6;0;55
+2675GB;GIB;The Horse Show;;PUZZLE;Horses;1000;Standard;Standard;Standard;21.13;25.36;5;0;30
+2676GB;GIB;The Jig-Map. Name the Towns!;;PUZZLE;Childrens;0;Standard;Standard;Standard;15.42;18.5;49;20;50
+2677GB;GIB;The Night Before Christmas;;PUZZLE;Thomas Kinkade;1000;Standard;Standard;Standard;22.98;27.58;11;0;75
+2678GB;GIB;The Postman's Round;;PUZZLE;Cottages;500;4 Puzzles in a Box;Standard;Standard;32.1;38.52;15;0;90
+2679GB;GIB;The Potting Shed;;PUZZLE;Farm Life;1000;Standard;Standard;Standard;21.13;25.36;12;0;75
+2680GB;GIB;The Skaters;;PUZZLE;Christmas;500;Standard;Standard;Standard;15.42;18.5;47;20;40
+2681GB;GIB;The Spirit of Christmas;;PUZZLE;Artists;1000;Standard;Standard;Standard;22.98;27.58;19;0;95
+2682GB;GIB;The Squadron returns;;PUZZLE;Airplanes;1000;Standard;Standard;Standard;21.13;25.36;3;0;20
+2683GB;GIB;The Sweet Shop;;PUZZLE;Buses;1000;Standard;Standard;Standard;21.13;25.36;13;0;90
+2684GB;GIB;The Village Farrier;;PUZZLE;Farm Life;636;Standard;Standard;Standard;17.09;20.51;52;20;50
+2685GB;GIB;The Village Green;;PUZZLE;Snow;500;4 Puzzles in a Box;Standard;Standard;32.1;38.52;7;0;55
+2686GB;GIB;The Village Pond;;PUZZLE;Cottages;1000;Standard;Standard;Standard;21.13;25.36;17;0;95
+2687GB;GIB;Their Finest Hour;;PUZZLE;Airplanes;1000;Standard;Standard;Standard;21.13;25.36;13;0;85
+2688GB;GIB;Too Many Cooks;;PUZZLE;Dogs;500;Standard;Standard;Standard;15.42;18.5;30;20;30
+2689GB;GIB;Twilight Cottage;;PUZZLE;Artists;1000;Standard;Standard;Standard;22.98;27.58;13;0;65
+2690GB;GIB;Two by Two;;PUZZLE;Birds;1000;Standard;Standard;Standard;21.13;25.36;16;0;100
+2691GB;GIB;Under the Sea 123;;PUZZLE;Sealife;40;Standard;Standard;Standard;18.76;22.51;44;20;40
+2692GB;GIB;Up, up and Away;;PUZZLE;Airplanes;500;Standard;Standard;Standard;15.42;18.5;0;20;40
+2693GB;GIB;Victorian Christmas II;;PUZZLE;Artists;0;Standard;Standard;Travel Puzzle;7.58;9.1;28;20;40
+2694GB;GIB;Village Crossing;;PUZZLE;Snow;1000;Standard;Standard;Standard;21.13;25.36;0;0;15
+2695GB;GIB;Waterloo Station;;PUZZLE;Trains;1000;Standard;Standard;Standard;21.13;25.36;12;0;75
+2696GB;GIB;Westminster Bridge;;PUZZLE;Caribbean;636;Standard;Standard;Standard;17.09;20.51;55;20;50
+2697GB;GIB;When the Mouse is Away;;PUZZLE;Birds;1000;Standard;Standard;Standard;21.13;25.36;15;0;80
+2698GB;GIB;Whitby Harbour;;PUZZLE;Caribbean;636;Standard;Standard;Standard;17.09;20.51;41;20;40
+2699GB;GIB;Window Shopping;;PUZZLE;Flowers and Gardens;500;4 Puzzles in a Box;Standard;Standard;32.1;38.52;6;0;35
+2700GB;GIB;Winter Wayfarer;;PUZZLE;Snow;636;Standard;Standard;Standard;17.09;20.51;26;10;50
+2701GB;GIB;Woodland Creatures.;;PUZZLE;Birds;1000;Standard;Standard;Standard;21.13;25.36;2;0;15
+BF9930;BUF;Peel & Stick Puzzle Saver;Fits up to two 300 piece or 500 piece puzzles;GLUE;;0;;;;8.0;9.6;82;30;110
+BUF5FTA;BUF;New York;;PUZZLE;Places – USA;750;Standard;Panoramic Puzzle;Glow in the Dark;16.8;20.16;9;20;40
+BUF66OL;BUF;Las Vegas;;PUZZLE;Places – USA;750;Standard;Panoramic Puzzle;Glow in the Dark;16.8;20.16;38;20;40
+CEL1NPB;CEL;Courting Peacocks;;PUZZLE;Birds;150;Standard;Standard;Standard;19.42;23.3;44;20;40
+CEL4I4T;CEL;Green Man;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;25.25;30.3;2;0;35
+CHA1E96;CHA;Harbour at St.Albans;;PUZZLE;Harbours;1000;Standard;Standard;Standard;19.42;23.3;56;10;40
+CHA2RO9;CHA;A Quiet day in Jersey;;PUZZLE;Harbours;500;Standard;Standard;Standard;10.69;12.83;11;20;30
+CHA2SHI;CHA;Flower Seller in old London Town;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;19.42;23.3;3;20;50
+CHA36O7;CHA;Evening Bliss;;PUZZLE;Famous Landmarks;500;Standard;Standard;Standard;10.69;12.83;36;20;30
+CHA4L2E;CHA;Thatched Cottage;;PUZZLE;Cottages;1000;Standard;Standard;Standard;19.42;23.3;21;20;40
+CHA4O8E;CHA;Garden in Bloom;;PUZZLE;Cottages;500;Standard;Standard;Standard;10.69;12.83;10;10;50
+CHA52KQ;CHA;Strawberry Feast;;PUZZLE;Flowers and Gardens;500;Standard;Standard;Standard;10.69;12.83;35;20;50
+CHA5NHC;CHA;Wildflowers;;PUZZLE;Flowers and Gardens;500;Standard;Standard;Standard;10.69;12.83;27;20;30
+CHA66NR;CHA;Fergie at Work;;PUZZLE;Farm Life;500;Standard;Standard;Standard;10.69;12.83;54;10;40
+CHA6IQF;CHA;Cornish Riviera Express;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;19.42;23.3;34;10;40
+CHA7H4A;CHA;Antique World Map;;PUZZLE;World;1000;Standard;Standard;Standard;19.42;23.3;22;20;30
+CHADI2E;CHA;Rush Hour in the City;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;19.42;23.3;32;10;40
+CIT6G9S;CIT;Ships and the Sea;;PUZZLE;Boats;500;Standard;Standard;Standard;15.18;18.22;59;10;30
+CIT78PK;CIT;British Classic Cars;;PUZZLE;Cars;1000;Standard;Standard;Standard;24.3;29.16;13;0;70
+CLAI1020;LUX;Thirties Sunday and Aero Club;;PUZZLE;Airplanes;500;2 Puzzles in a Box;Standard;Standard;19.94;23.93;48;10;50
+CLBI1009;LUX;Kitten in Basket;;PUZZLE;Birds;500;Standard;Standard;Standard;18.43;22.12;15;20;40
+CLBO1007;LUX;Henley Regatta and Playing;;PUZZLE;Boats;500;2 Puzzles in a Box;Standard;Standard;19.94;23.93;21;20;40
+CLCA1013;LUX;No Parking;;PUZZLE;Cars;1000;Standard;Standard;Standard;18.43;22.12;43;20;30
+CLCA1019;LUX;The Cotswolds;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;18.43;22.12;36;10;30
+CLCO1005;LUX;Chatsworth House;;PUZZLE;Countryside;1000;Standard;Standard;Standard;18.43;22.12;20;10;40
+CLCO1006;LUX;Country Drive and TF for 2;;PUZZLE;Countryside;500;2 Puzzles in a Box;Standard;Standard;19.94;23.93;51;10;30
+CLCO1008;LUX;Heroes of Comedy;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.06;21.67;3;10;40
+CLCO1011;LUX;Lovely Jubbly;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.06;21.67;27;10;50
+CLCO1014;LUX;Ringwood Cottage;;PUZZLE;Cottages;500;Standard;Standard;Standard;18.43;22.12;55;10;40
+CLCO1015;LUX;Sit-Com Legends;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.43;22.12;12;10;40
+CLFA1002;LUX;Big Ben;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;18.99;22.79;41;20;40
+CLFA1021;LUX;Tower Bridge by Night;;PUZZLE;Famous Landmarks;500;Standard;Standard;Standard;13.36;16.03;28;20;40
+CLFA1023;LUX;Who's Who;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;18.43;22.12;21;10;40
+CLFL1017;LUX;Sunflowers;;PUZZLE;Flowers and Gardens;1000;Standard;Standard;Standard;18.76;22.51;12;20;40
+CLFO1025;LUX;Ye Olde Red Horse Pub;;PUZZLE;Food and Drink;1000;Standard;Standard;Standard;18.43;22.12;1;10;30
+CLHO1022;LUX;Whilst the Sun Shines;;PUZZLE;Horses;500;Standard;Standard;Standard;13.3;15.96;46;10;30
+CLTR1001;LUX;A Saint at Radley;;PUZZLE;Trains;500;Standard;Standard;Standard;13.3;15.96;10;20;50
+CLTR1010;LUX;Leaving Coombe Junction;;PUZZLE;Trains;1000;Standard;Standard;Standard;18.43;22.12;17;10;40
+CLTR1012;LUX;Morning Service;;PUZZLE;Trains;1000;Standard;Standard;Standard;18.43;22.12;5;20;40
+CLTR1016;LUX;Summer Saturday;;PUZZLE;Trains;1000;Standard;Standard;Standard;18.43;22.12;50;10;30
+CLTR1018;LUX;The Arrival;;PUZZLE;Trains;1000;Standard;Standard;Standard;18.43;22.12;52;20;40
+CLTR1024;LUX;Winchcombe Station;;PUZZLE;Trains;500;Standard;Standard;Standard;13.3;15.96;41;10;40
+CLWA1003;LUX;Canal Crossing;;PUZZLE;Waterways;500;Standard;Standard;Standard;13.3;15.96;2;10;50
+CLWA1004;LUX;Canal Cruise;;PUZZLE;Waterways;500;Standard;Standard;Standard;13.3;15.96;35;10;50
+CMT1001;CLE;Alphabet Jungle;;PUZZLE;Big cats;250;Standard;Standard;Standard;11.55;13.86;43;10;40
+CMT1002;CLE;Animal Friends 101 Dalmatians;;PUZZLE;Childrens;60;Standard;Standard;Standard;9.49;11.39;19;20;40
+CMT1003;CLE;Autumn Evening;;PUZZLE;Landscapes;2000;Standard;Standard;Standard;26.87;32.24;17;0;105
+CMT1004;CLE;Aztec Forest;;PUZZLE;Big cats;4000;Standard;Standard;Standard;53.95;64.74;5;0;35
+CMT1005;CLE;Aztec Queen;;PUZZLE;Big cats;1000;Standard;Standard;Standard;18.43;22.12;43;20;50
+CMT1006;CLE;Bacco;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;18.35;22.02;4;10;40
+CMT1007;CLE;Banff National Park in Canada;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;18.43;22.12;19;10;50
+CMT1008;CLE;Bejing, China;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;18.43;22.12;37;20;50
+CMT1009;CLE;Bengala Park;;PUZZLE;Big cats;1000;Standard;Standard;Standard;18.76;22.51;57;10;40
+CMT1010;CLE;Birth of Venus;;PUZZLE;Botticelli;1000;Standard;Standard;Standard;18.06;21.67;47;20;30
+CMT1011;CLE;Bowl of Flowers;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;18.35;22.02;10;20;40
+CMT1012;CLE;Buon Appetito;;PUZZLE;Food and Drink;3000;Standard;Standard;Standard;38.01;45.61;16;0;90
+CMT1013;CLE;Cabin on the River;;PUZZLE;Mountains;1500;Standard;Standard;Standard;24.3;29.16;7;0;50
+CMT1014;CLE;Cafe Terrace at Night;;PUZZLE;Van Gogh;1000;Standard;Standard;Standard;18.06;21.67;19;20;50
+CMT1015;CLE;Cafe Terrace at Night - Van Gogh;;PUZZLE;Artists;1000;Standard;Standard;Standard;18.06;21.67;57;20;40
+CMT1016;CLE;Cars;;PUZZLE;Disney;1000;Standard;Panoramic Puzzle;Standard;22.98;27.58;14;0;75
+CMT1017;CLE;Cats in the Moonlight;;PUZZLE;Birds;1000;Standard;Standard;Standard;17.15;20.58;29;10;40
+CMT1018;CLE;Country and Fruits;;PUZZLE;Farm Life;500;Standard;Standard;Standard;13.3;15.96;53;10;50
+CMT1019;CLE;Cupid and Psyche;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;18.35;22.02;2;20;30
+CMT1020;CLE;Disney Animal Friends;;PUZZLE;Wild;1000;Standard;Panoramic Puzzle;Standard;22.98;27.58;19;0;100
+CMT1021;CLE;Disney Princesses - Make Up;;PUZZLE;Disney;100;Standard;Standard;Standard;11.55;13.86;14;10;40
+CMT1022;CLE;Disney Villains;;PUZZLE;Disney;1000;Standard;Standard;Standard;22.98;27.58;3;0;20
+CMT1023;CLE;Dubai;;PUZZLE;Famous Landmarks;1500;Standard;Standard;Standard;24.3;29.16;11;0;80
+CMT1024;CLE;Flamingo's;;PUZZLE;Birds;1000;Standard;Standard;Standard;24.69;29.63;16;0;105
+CMT1025;CLE;Free Spirit;;PUZZLE;Horses;1000;Standard;Standard;Standard;23.31;27.97;11;0;65
+CMT1026;CLE;Gallery in Ancient Rome;;PUZZLE;Miscellany;2000;Standard;Standard;Standard;26.87;32.24;4;0;25
+CMT1027;CLE;Garda, Italy;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;18.43;22.12;19;10;40
+CMT1028;CLE;Garden of Earthly Delights;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;18.37;22.04;39;10;40
+CMT1029;CLE;Havana!;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;18.37;22.04;20;10;30
+CMT1030;CLE;Horses;;PUZZLE;Horses;1000;Standard;Standard;Standard;18.76;22.51;35;20;30
+CMT1031;CLE;Humming Bird;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.99;22.79;19;10;40
+CMT1032;CLE;Indian Princesses;;PUZZLE;Big cats;1500;Standard;Standard;Standard;24.3;29.16;12;0;70
+CMT1033;CLE;Kilimanjaro;;PUZZLE;Big cats;1000;Standard;Standard;Standard;18.06;21.67;6;10;40
+CMT1034;CLE;Kitty and the Bear;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.43;22.12;24;10;30
+CMT1035;CLE;La Primavera;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;18.06;21.67;39;20;50
+CMT1036;CLE;Lady and the Tramp Romantic Night;;PUZZLE;Childrens;60;Standard;Standard;Standard;9.49;11.39;60;20;40
+CMT1038;CLE;Lair of the Snow Leopard;;PUZZLE;Big cats;1000;Standard;Standard;Glow in the Dark;23.31;27.97;6;0;35
+CMT1039;CLE;Lake Garda - Italy;;PUZZLE;Famous Landmarks;2000;Standard;Standard;Standard;26.87;32.24;12;0;65
+CMT1040;CLE;Las Vegas;;PUZZLE;Famous Landmarks;6000;Standard;Standard;Standard;72.22;86.66;18;0;90
+CMT1041;CLE;Lighthouse at Sunset;;PUZZLE;Lighthouses;1000;Standard;Standard;Standard;18.43;22.12;25;20;30
+CMT1042;CLE;Lijiang - China;;PUZZLE;Famous Landmarks;2000;Standard;Standard;Standard;27.2;32.64;18;0;95
+CMT1043;CLE;Little Mermaid;;PUZZLE;Childrens;250;Standard;Standard;Standard;11.39;13.67;38;10;40
+CMT1044;CLE;Little Mermaid - II Concert;;PUZZLE;Childrens;51100;Standard;Standard;Standard;11.39;13.67;33;20;50
+CMT1045;CLE;Little Mermaid Love Dream;;PUZZLE;Childrens;60;Standard;Standard;Standard;9.49;11.39;21;10;40
+CMT1046;CLE;Lost in a Silvery Land;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.99;22.79;24;10;40
+CMT1047;CLE;Machu Picchu;;PUZZLE;South America;1500;Standard;Standard;Standard;24.3;29.16;4;0;25
+CMT1048;CLE;Manhattan Skyline;;PUZZLE;Famous Landmarks;1500;Standard;Standard;Standard;24.3;29.16;19;0;115
+CMT1049;CLE;Mona Lisa;;PUZZLE;Da Vinci;1000;Standard;Standard;Standard;18.35;22.02;38;10;50
+CMT1050;CLE;Moraine Lake Canada;;PUZZLE;Canada;1500;Standard;Standard;Standard;24.3;29.16;18;0;95
+CMT1051;CLE;Neuschwanstein Castle;;PUZZLE;Castles;1000;Standard;Standard;Standard;18.43;22.12;39;20;30
+CMT1052;CLE;New York;;PUZZLE;Famous Landmarks;2000;Standard;Standard;Standard;26.87;32.24;5;0;30
+CMT1053;CLE;Ocean Destiny;;PUZZLE;Sealife;1000;Standard;Standard;Standard;23.31;27.97;6;0;30
+CMT1054;CLE;Paris;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;18.06;21.67;42;20;40
+CMT1055;CLE;Peter Pan;;PUZZLE;Childrens;100;Standard;Standard;Standard;11.39;13.67;7;10;40
+CMT1057;CLE;Power Rangers, Heroic Fighters;;PUZZLE;Childrens;100;Standard;Standard;Standard;11.64;13.97;46;20;50
+CMT1058;CLE;Power Rangers, World Defenders;;PUZZLE;Childrens;250;Standard;Standard;Standard;11.39;13.67;59;10;30
+CMT1059;CLE;Princesses;;PUZZLE;Disney;1000;Standard;Panoramic Puzzle;Standard;22.98;27.58;3;0;35
+CMT1060;CLE;Sagrada Familia;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;18.43;22.12;24;20;30
+CMT1061;CLE;Snow White;;PUZZLE;Childrens;350;Standard;Standard;Standard;13.3;15.96;35;20;40
+CMT1062;CLE;Starry Night;;PUZZLE;Miscellany;2000;Standard;Standard;Standard;26.87;32.24;3;0;25
+CMT1063;CLE;Starry Night on the Rhone;;PUZZLE;Van Gogh;1000;Standard;Standard;Standard;18.06;21.67;28;20;40
+CMT1064;CLE;Swim in the Moonlight;;PUZZLE;Sealife;1000;Standard;Standard;Standard;23.31;27.97;2;0;35
+CMT1065;CLE;Sydney, Australia;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;18.43;22.12;30;10;40
+CMT1066;CLE;The Coliseum, Rome;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;18.06;21.67;26;20;50
+CMT1067;CLE;The Colosseum, Rome;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;18.06;21.67;32;10;40
+CMT1068;CLE;The Creation Of Man;;PUZZLE;Artists;1000;Standard;Standard;Standard;18.43;22.12;34;10;40
+CMT1069;CLE;The Dancing Lesson;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;18.35;22.02;60;20;30
+CMT1070;CLE;The Dolomites;;PUZZLE;Cottages;4000;Standard;Standard;Standard;53.95;64.74;6;0;45
+CMT1071;CLE;The First Kiss;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;18.92;22.7;58;10;50
+CMT1072;CLE;The Graf Zeppelin;;PUZZLE;Air Balloons;1000;Standard;Standard;Standard;18.92;22.7;4;10;40
+CMT1073;CLE;The Last Supper;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;18.99;22.79;21;10;40
+CMT1074;CLE;The Leaning Tower at Pisa;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;18.43;22.12;47;10;40
+CMT1075;CLE;The Louvre, Paris;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;18.37;22.04;50;20;30
+CMT1076;CLE;The Luncheon of the Boating Party;;PUZZLE;Artists;1500;Standard;Standard;Standard;24.3;29.16;0;0;10
+CMT1077;CLE;The Marriage in Cana;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;18.37;22.04;59;10;40
+CMT1078;CLE;The Matterhorn;;PUZZLE;Flowers and Gardens;1500;Standard;Standard;Standard;24.3;29.16;15;0;80
+CMT1079;CLE;The Roman Forum;;PUZZLE;Famous Landmarks;1500;Standard;Standard;Standard;24.3;29.16;6;0;45
+CMT1080;CLE;The Taj Mahal;;PUZZLE;Famous Landmarks;1500;Standard;Standard;Standard;24.3;29.16;9;0;65
+CMT1081;CLE;The Three Ages of Woman;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;18.35;22.02;20;20;40
+CMT1082;CLE;The Water Lily Pond;;PUZZLE;Michaelangelo;1000;Standard;Standard;Standard;18.37;22.04;2;10;50
+CMT1083;CLE;The Wave;;PUZZLE;Horses;1000;Standard;Standard;Standard;22.8;27.36;2;0;15
+CMT1084;CLE;Tigers;;PUZZLE;Big cats;1000;Standard;Panoramic Puzzle;Standard;18.99;22.79;53;20;30
+CMT1085;CLE;Time Well Spent;;PUZZLE;Landscapes;1500;Standard;Standard;Standard;24.3;29.16;16;0;100
+CMT1086;CLE;Titania and Oberon;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;23.31;27.97;5;0;50
+CMT1087;CLE;Toy Story;;PUZZLE;Comedy/Cartoon;60;Standard;Standard;Standard;10.21;12.25;27;10;40
+CMT1088;CLE;Trinity;;PUZZLE;Horses;1000;Standard;Standard;Standard;23.31;27.97;9;0;55
+CMT1089;CLE;Universal Judgement;;PUZZLE;Michaelangelo;1000;Standard;Standard;Standard;18.06;21.67;9;20;50
+CMT1090;CLE;Wild Tiger;;PUZZLE;Big cats;1000;Standard;Standard;Standard;18.37;22.04;22;20;50
+CMT1091;CLE;Winnie The Pooh - The Artists;;PUZZLE;Childrens;350;Standard;Standard;Standard;11.39;13.67;47;10;50
+CMT1092;CLE;Winnie the Pooh - The Party;;PUZZLE;Childrens;250;Standard;Standard;Standard;11.39;13.67;49;10;40
+CMT1093;CLE;Woman with Umbrella;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;18.35;22.02;33;10;40
+CMT1094;CLE;Yellow Birds;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.99;22.79;30;20;30
+CMT1095;CLE;Young Girls at the Piano;;PUZZLE;Renoir;1000;Standard;Standard;Standard;18.35;22.02;54;20;50
+CMT1096;CLE;Zodiac;;PUZZLE;Astrology;6000;Standard;Standard;Standard;73.39;88.07;7;0;50
+DIN13BD;DIN;The Rialto Bridge;;PUZZLE;Famous Landmarks;500;Standard;Standard;Standard;13.3;15.96;24;20;30
+DIN1QLA;DIN;Our World from the Universe;;PUZZLE;World;1000;Standard;Standard;Glow in the Dark;20.9;25.08;11;0;70
+DIN21RM;DIN;Dinosaur Life;;PUZZLE;Dinosaurs;100;Standard;Standard;Standard;13.3;15.96;35;10;50
+DIN39B7;DIN;Steam Train;;PUZZLE;Trains;500;Standard;Standard;Glow in the Dark;14.25;17.1;10;10;40
+DIN5VIE;DIN;Tahiti Seaside;;PUZZLE;Beaches;1000;Standard;Standard;Standard;18.99;22.79;7;10;30
+DIN6M4V;DIN;The Air Show;;PUZZLE;Air Balloons;1000;Standard;Standard;Standard;18.76;22.51;56;20;30
+DIN7IVR;DIN;Fairy;;PUZZLE;Fantasy;500;Standard;Standard;Standard;13.3;15.96;30;20;40
+ED07_69;EDU;Orbis Terrarum Nova;;PUZZLE;World;1000;Standard;Standard;Standard;18.43;22.12;2;10;30
+ED10_95;EDU;Tower Bridge;;PUZZLE;Castles;1000;Standard;Standard;Standard;26.59;31.91;7;0;45
+ED11_100;EDU;Two Wooden Cinderella Puzzles;;PUZZLE;Childrens;2650;2 Puzzles in a Box;Standard;Wooden Puzzle;14.25;17.1;56;20;30
+ED11_106;EDU;Wonderful World of Disney;;PUZZLE;Childrens;1000;Standard;Standard;Standard;21.33;25.6;5;0;40
+ED11_29;EDU;Disney Princesses;;PUZZLE;Childrens;51100;Standard;Standard;Wooden Puzzle;14.25;17.1;29;20;40
+ED11_49;EDU;Guernica;;PUZZLE;Miscellany;3000;Standard;Standard;Standard;48.58;58.3;9;0;60
+ED11_52;EDU;In the Moonlight;;PUZZLE;Sealife;300;Standard;Standard;Standard;11.39;13.67;9;20;40
+ED11_70;EDU;Paradise under the Sea;;PUZZLE;Sealife;1500;Standard;Standard;Standard;28.5;34.2;4;0;25
+ED11_79;EDU;Soft Cans;;PUZZLE;Food and Drink;2000;Standard;Standard;Standard;37.77;45.32;14;0;85
+ED12_105;EDU;Winter, Spring, Summer, Autumn;;PUZZLE;Miscellany;4000;Standard;Standard;Standard;57.02;68.42;16;0;90
+ED12_16;EDU;Ceiling of The Sistine Chapel;;PUZZLE;Artists;3000;Standard;Standard;Standard;48.58;58.3;14;0;90
+ED12_55;EDU;Lake Como landing;;PUZZLE;Caribbean;3000;Standard;Standard;Standard;49.42;59.3;11;0;70
+ED12_84;EDU;The Acropolis, Athens;;PUZZLE;Caribbean;500;Standard;Standard;Standard;7.58;9.1;30;10;40
+ED12_92;EDU;The World of Disney;;PUZZLE;Childrens;51100;Standard;Standard;Wooden Puzzle;14.25;17.1;13;20;50
+ED12_96;EDU;Toy Story;;PUZZLE;Disney;200;Standard;Standard;Standard;13.36;16.03;53;20;40
+ED13_1;EDU;A Slice of Life;;PUZZLE;Birds;4000;Standard;Standard;Standard;58.3;69.96;19;0;105
+ED13_10;EDU;Butterfly;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;21.33;25.6;16;0;80
+ED13_101;EDU;Unicorn Valley;;PUZZLE;Fantasy;1500;Standard;Standard;Standard;29.14;34.97;11;0;55
+ED13_102;EDU;Urano's Drops;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;21.33;25.6;4;0;35
+ED13_103;EDU;Venice;;PUZZLE;Famous Landmarks;1500;Standard;Standard;Standard;29.14;34.97;4;0;25
+ED13_104;EDU;Village Hideaway;;PUZZLE;Miscellany;2000;Standard;Standard;Standard;34.97;41.96;2;0;20
+ED13_107;EDU;World Collage;;PUZZLE;Famous Landmarks;3000;Standard;Standard;Standard;52.47;62.96;8;0;50
+ED13_108;EDU;You Are Here;;PUZZLE;Royce B McClure;1000;Standard;Standard;Standard;19.19;23.03;42;20;30
+ED13_109;EDU;Zaragoza;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;19.19;23.03;5;20;50
+ED13_11;EDU;Candelabra;;PUZZLE;Fantasy;500;Standard;Standard;Standard;15.42;18.5;34;10;30
+ED13_12;EDU;Capri Cove;;PUZZLE;Beaches;500;Standard;Standard;Standard;15.18;18.22;12;20;30
+ED13_14;EDU;Cars Double Pack;;PUZZLE;Childrens;0;2 Puzzles in a Box;Standard;Standard;14.25;17.1;27;20;30
+ED13_15;EDU;Cars;;PUZZLE;Disney;100;Standard;Standard;Standard;13.36;16.03;10;20;40
+ED13_17;EDU;Celebration;;PUZZLE;Sealife;1500;Standard;Standard;Standard;30.4;36.48;11;0;75
+ED13_18;EDU;Clown School;;PUZZLE;Sealife;1000;Standard;Standard;Standard;19.19;23.03;9;10;40
+ED13_19;EDU;Collage by E.B.Leighton;;PUZZLE;Miscellany;6000;Standard;Standard;Standard;76.03;91.24;18;0;110
+ED13_2;EDU;Amboseli Park;;PUZZLE;Wild;1000;Standard;Standard;Standard;19.19;23.03;6;10;40
+ED13_20;EDU;Cradle of Life;;PUZZLE;Big cats;1500;Standard;Standard;Standard;29.14;34.97;1;0;10
+ED13_21;EDU;Da Vinci's World;;PUZZLE;Da Vinci;1000;Standard;Standard;Standard;21.33;25.6;3;0;20
+ED13_25;EDU;Disney Animal Friends;;PUZZLE;Disney;1000;Standard;Standard;Standard;21.33;25.6;11;0;60
+ED13_26;EDU;Disney Parade;;PUZZLE;Disney;200;Standard;Standard;Standard;13.36;16.03;30;10;30
+ED13_3;EDU;Ancient Map of the World;;PUZZLE;World;6000;Standard;Standard;Standard;95.04;114.05;6;0;40
+ED13_30;EDU;Dolls;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;20.9;25.08;14;0;95
+ED13_31;EDU;Dragon Attack;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;19.19;23.03;18;20;50
+ED13_32;EDU;Dubrovnik;;PUZZLE;Castles;500;Standard;Standard;Standard;13.59;16.31;48;10;40
+ED13_33;EDU;Early Service;;PUZZLE;Miscellany;1500;Standard;Standard;Standard;29.14;34.97;1;0;5
+ED13_36;EDU;Enchanted Evening;;PUZZLE;Wild;500;Standard;Standard;Standard;15.18;18.22;44;20;50
+ED13_4;EDU;Angel of Death;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;21.33;25.6;20;0;110
+ED13_40;EDU;Feathered Friends;;PUZZLE;Birds;1000;Standard;Standard;Standard;20.9;25.08;11;0;55
+ED13_43;EDU;Flower Shop;;PUZZLE;Flowers and Gardens;2000;Standard;Standard;Standard;34.97;41.96;14;0;75
+ED13_46;EDU;Genoa Blue;;PUZZLE;Fantasy;500;Standard;Standard;Standard;15.18;18.22;28;20;40
+ED13_47;EDU;God Speed!;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;19.19;23.03;13;20;40
+ED13_48;EDU;Guardian Angel;;PUZZLE;Fantasy;1500;Standard;Standard;Standard;30.89;37.07;13;0;85
+ED13_51;EDU;Howling Cub Crop;;PUZZLE;Wild;500;Standard;Standard;Standard;13.59;16.31;26;20;40
+ED13_53;EDU;La Dolorosa;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;20.9;25.08;2;0;15
+ED13_54;EDU;La Palette;;PUZZLE;Food and Drink;1000;Standard;Standard;Standard;20.9;25.08;7;0;45
+ED13_57;EDU;Le Flore En L'Isle;;PUZZLE;Food and Drink;500;Standard;Standard;Standard;15.18;18.22;31;20;50
+ED13_58;EDU;Life;;PUZZLE;Sealife;24000;Standard;Standard;Standard;304.18;365.02;7;0;60
+ED13_59;EDU;Mapamudi World Map 1375;;PUZZLE;World;1000;Standard;Standard;Standard;20.9;25.08;15;0;100
+ED13_60;EDU;Mickey's Nightmare;;PUZZLE;Disney;1000;Standard;Standard;Standard;21.33;25.6;6;0;30
+ED13_62;EDU;Mitchell Falls;;PUZZLE;Famous Landmarks;2000;Standard;Standard;Standard;37.77;45.32;7;0;55
+ED13_65;EDU;Mount Fujiyama;;PUZZLE;Famous Landmarks;500;Standard;Standard;Standard;13.59;16.31;53;10;50
+ED13_66;EDU;Nafea Faa Ipoipo;;PUZZLE;Gauguin;1000;Standard;Standard;Standard;21.33;25.6;18;0;100
+ED13_67;EDU;New York Skyline;;PUZZLE;Famous Landmarks;1000;Standard;Panoramic Puzzle;Standard;21.33;25.6;3;0;15
+ED13_68;EDU;New York Skyline 1920;;PUZZLE;Famous Landmarks;500;Standard;Standard;Standard;13.3;15.96;51;20;40
+ED13_71;EDU;Parakauni Falls.;;PUZZLE;Famous Landmarks;1500;Standard;Standard;Standard;29.14;34.97;7;0;55
+ED13_72;EDU;Pasta!;;PUZZLE;Food and Drink;1000;Standard;Standard;Standard;18.99;22.79;58;20;30
+ED13_76;EDU;Sagrada Familia;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;19.19;23.03;52;10;40
+ED13_77;EDU;Set Me Free;;PUZZLE;Fantasy;1500;Standard;Standard;Standard;30.4;36.48;10;0;60
+ED13_78;EDU;Sky Roads;;PUZZLE;Royce B McClure;1000;Standard;Standard;Standard;19.19;23.03;46;10;40
+ED13_80;EDU;Spices!;;PUZZLE;Food and Drink;1500;Standard;Standard;Standard;29.14;34.97;2;0;20
+ED13_82;EDU;Sydney, Australia;;PUZZLE;Famous Landmarks;1000;Standard;Panoramic Puzzle;Standard;21.33;25.6;9;0;60
+ED13_86;EDU;The Coliseum, Rome;;PUZZLE;Famous Landmarks;500;Standard;Standard;Standard;13.3;15.96;48;10;30
+ED13_87;EDU;The Fallen Angel;;PUZZLE;Fantasy;1500;Standard;Standard;Standard;30.89;37.07;3;0;25
+ED13_88;EDU;The Five Faces of Hecate;;PUZZLE;Fantasy;500;Standard;Standard;Standard;15.53;18.64;22;20;40
+ED13_9;EDU;Bull Dog;;PUZZLE;Dogs;500;Standard;Standard;Standard;13.59;16.31;6;20;30
+ED13_90;EDU;The Seychelles;;PUZZLE;Famous Landmarks;2000;Standard;Standard;Standard;34.97;41.96;1;0;20
+ED13_93;EDU;Times Square;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Glow in the Dark;26.59;31.91;0;0;25
+ED13_94;EDU;Times Square Neon;;PUZZLE;Places – Europe;1000;Standard;Standard;Glow in the Dark;26.4;31.68;6;0;50
+ED13_99;EDU;Two Wooden Animal Friends Puzzles;;PUZZLE;PreSchool;2650;2 Puzzles in a Box;Standard;Wooden Puzzle;14.25;17.1;54;10;40
+ED14_13;EDU;Cars;;PUZZLE;Disney;200;Standard;Standard;Standard;13.36;16.03;4;20;50
+ED14_22;EDU;Dance at the Moulin Rouge;;PUZZLE;Miscellany;1500;Standard;Standard;Standard;30.89;37.07;4;0;30
+ED14_23;EDU;Dark Labyrinth;;PUZZLE;Fantasy;500;Standard;Standard;Standard;15.53;18.64;20;10;30
+ED14_24;EDU;Diabulus;;PUZZLE;Fantasy;500;Standard;Standard;Standard;15.53;18.64;59;20;40
+ED14_27;EDU;Disney Pixar Characters;;PUZZLE;Disney;1000;Standard;Standard;Standard;21.33;25.6;15;0;90
+ED14_28;EDU;Disney Pixar Party;;PUZZLE;Disney;1000;Standard;Standard;Standard;21.33;25.6;12;0;75
+ED14_34;EDU;Eiffel Tower at Night;;PUZZLE;Places – Europe;1000;Standard;Standard;Glow in the Dark;28.8;34.56;17;0;90
+ED14_35;EDU;Emerald Lake in the Rockies;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;19.19;23.03;27;20;30
+ED14_37;EDU;Fairies;;PUZZLE;Disney;500;Standard;Standard;Standard;15.53;18.64;15;10;50
+ED14_38;EDU;Fairies.;;PUZZLE;Fantasy;500;Standard;Standard;Standard;15.53;18.64;2;20;50
+ED14_39;EDU;Fairy Hollow;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;19.19;23.03;4;10;40
+ED14_41;EDU;Felina;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;21.33;25.6;9;0;50
+ED14_42;EDU;Fishing on the Li River;;PUZZLE;Famous Landmarks;500;Standard;Standard;Standard;13.59;16.31;33;10;30
+ED14_45;EDU;Gallery with views of Rome;;PUZZLE;Miscellany;5000;Standard;Standard;Standard;77.74;93.29;18;0;115
+ED14_5;EDU;Arc De Triomphe;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;19.19;23.03;13;10;40
+ED14_50;EDU;Hobsyllwin Y Cume;;PUZZLE;Castles;1500;Standard;Standard;Standard;30.89;37.07;9;0;45
+ED14_56;EDU;Landmarks of Europe;;PUZZLE;Famous Landmarks;2000;Standard;Standard;Standard;34.97;41.96;9;0;60
+ED14_6;EDU;Art Cube;;PUZZLE;Artists;0;Standard;3D Puzzle;Magnetic Puzzle;64.8;77.76;15;0;75
+ED14_61;EDU;Midsummer Eve;;PUZZLE;Fantasy;2000;Standard;Standard;Standard;34.97;41.96;4;0;25
+ED14_63;EDU;Mont Blanc;;PUZZLE;Famous Landmarks;4000;Standard;Standard;Standard;58.3;69.96;7;0;40
+ED14_64;EDU;Mothers Darling;;PUZZLE;Miscellany;500;Standard;Standard;Standard;13.59;16.31;37;10;50
+ED14_7;EDU;Beer Tunnel;;PUZZLE;Food and Drink;1500;Standard;Standard;Standard;29.14;34.97;5;0;45
+ED14_73;EDU;Peaceful Reflections;;PUZZLE;Cottages;1000;Standard;Standard;Standard;19.19;23.03;21;10;40
+ED14_74;EDU;Pegasus;;PUZZLE;Fantasy;500;Standard;Standard;Standard;15.53;18.64;4;20;50
+ED14_75;EDU;Romeo and Juliet;;PUZZLE;Sir Frank Dicksee;3000;Standard;Standard;Standard;52.47;62.96;17;0;90
+ED14_8;EDU;Ben 10;;PUZZLE;Childrens;48;2 Puzzles in a Box;Standard;Standard;13.36;16.03;40;10;30
+ED14_81;EDU;Sunset Dragon;;PUZZLE;Castles;1000;Standard;Standard;Standard;21.33;25.6;1;0;10
+ED14_85;EDU;The Church at Auvers-Sur-Oise;;PUZZLE;Van Gogh;1500;Standard;Standard;Standard;30.89;37.07;0;0;15
+ED14_89;EDU;The Goddess and Dawn;;PUZZLE;Fantasy;1500;Standard;Standard;Standard;30.89;37.07;3;0;25
+ED14_91;EDU;The Tower of Babel;;PUZZLE;Comedy/Cartoon;1500;Standard;Standard;Standard;29.14;34.97;13;0;80
+ED14_97;EDU;Train near Jungfrau Mountain;;PUZZLE;Mountains;1000;Standard;Standard;Standard;19.19;23.03;23;20;50
+ED14_98;EDU;Tropical Scenes;;PUZZLE;Scenic – Jungle;0;Standard;3D Puzzle;Magnetic Puzzle;64.8;77.76;4;0;40
+ED73_83;EDU;The Accolade;;PUZZLE;Miscellany;2000;Standard;Standard;Standard;34.19;41.03;16;0;95
+EDGL01;EDU;Educa Jigsaws Fix Puzzle Glue;One bottle will cover 6 regular 1000 piece puzzles. Comes complete with sponge applicator.;GLUE;;0;;;;12.7;15.24;44;30;100
+ESC4SOP;ESC;Hand with Globe;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;22.8;27.36;12;0;65
+FAL11L9;FAL;Loveable Pets;;PUZZLE;Birds;500;Standard;Standard;Standard;13.3;15.96;38;10;40
+FAL13PT;FAL;Autumn Fruits;;PUZZLE;Flowers and Gardens;1500;Standard;Standard;Standard;22.36;26.83;19;0;95
+FAL14UT;FAL;Kitten and Cotton;;PUZZLE;Birds;1000;Standard;Standard;Standard;17.09;20.51;32;10;50
+FAL1B0Q;FAL;Ride in the Country;;PUZZLE;Cottages;1000;Standard;Standard;Standard;17.32;20.78;29;20;40
+FAL1DBP;FAL;The Carol Singers;;PUZZLE;Christmas;1000;Standard;Standard;Standard;17.48;20.98;19;20;40
+FAL1DMB;FAL;The Storm;;PUZZLE;Comedy/Cartoon;1500;Standard;Standard;Standard;25.25;30.3;10;0;55
+FAL1I4A;FAL;Planes, Trains and Automobiles;;PUZZLE;Airplanes;500;Standard;Standard;Standard;13.3;15.96;44;20;50
+FAL1II7;FAL;Fairytales;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;21.36;25.63;7;0;60
+FAL1LJ8;FAL;Hidden Xtra Puzzle - Bay Watch Out!;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;20.9;25.08;14;0;85
+FAL1M0M;FAL;Football;;PUZZLE;Comedy/Cartoon;2000;Standard;Standard;Standard;34.19;41.03;5;0;30
+FAL1RV3;FAL;Winchester High Street;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;17.32;20.78;39;10;40
+FAL1SD2;FAL;Christmas Eve;;PUZZLE;Christmas;1000;Standard;Standard;Standard;17.32;20.78;23;20;40
+FAL1UG2;FAL;All Aboard!;;PUZZLE;Trains;500;Standard;Standard;Standard;13.3;15.96;12;10;50
+FAL2175;FAL;Jumbo Christmas 2009;;PUZZLE;Christmas;1000;Standard;Standard;Standard;18.99;22.79;25;10;50
+FAL22HV;FAL;Summer Refreshment;;PUZZLE;Flowers and Gardens;1000;Standard;Standard;Standard;17.09;20.51;35;10;40
+FAL2D2F;FAL;Departure Time;;PUZZLE;Countryside;1000;Standard;Standard;Standard;17.32;20.78;28;10;40
+FAL2JO7;FAL;Championship Football;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;51;10;40
+FAL2MJB;FAL;Garden Poetry;;PUZZLE;Miscellany;500;Standard;Standard;Standard;13.3;15.96;4;20;40
+FAL2MJJ;FAL;Country Garden;;PUZZLE;Flowers and Gardens;1000;Standard;Standard;Standard;17.32;20.78;22;20;50
+FAL2PCR;FAL;Furry Christmas;;PUZZLE;Dogs;500;Standard;Standard;Standard;13.3;15.96;39;20;50
+FAL2PHB;FAL;Ascot Horse Race;;PUZZLE;Comedy/Cartoon;1500;Standard;Standard;Standard;25.25;30.3;3;0;25
+FAL2RMC;FAL;The Park;;PUZZLE;Comedy/Cartoon;3000;Standard;Standard;Standard;38.86;46.63;13;0;85
+FAL2VKR;FAL;Working on the Waterways;;PUZZLE;Waterways;1000;Standard;Standard;Standard;17.32;20.78;6;10;40
+FAL2VPT;FAL;Jungle Joy;;PUZZLE;Big cats;1500;Standard;Standard;Standard;22.36;26.83;7;0;50
+FAL30OP;FAL;On Thin Ice;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;25;10;40
+FAL319V;FAL;The Old Village Pub;;PUZZLE;Cars;1000;Standard;Standard;Standard;17.32;20.78;41;10;40
+FAL352S;FAL;Motor Racing;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;40;20;30
+FAL3ABQ;FAL;A Drive in the Country;;PUZZLE;Countryside;1000;Standard;Standard;Standard;17.15;20.58;30;10;50
+FAL3ARE;FAL;Friday The 13th;;PUZZLE;Comedy/Cartoon;1500;Standard;Standard;Standard;25.25;30.3;7;0;45
+FAL3K9C;FAL;Disney Friends;;PUZZLE;Childrens;350;Standard;Standard;Glow in the Dark;36.1;43.32;10;0;70
+FAL3LUA;FAL;Crazy Harbour;;PUZZLE;Comedy/Cartoon;1500;Standard;Standard;Standard;25.25;30.3;10;0;70
+FAL3NDH;FAL;Summer BBQ!;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;20.9;25.08;4;0;35
+FAL3OJ7;FAL;Woodland Lodge & Artist's Corner;;PUZZLE;Flowers and Gardens;500;2 Puzzles in a Box;Standard;Standard;18.99;22.79;30;10;40
+FAL3PRE;FAL;Birthday Special;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;38;10;50
+FAL3T4G;FAL;Every Boy's Dream;;PUZZLE;Cars;500;2 Puzzles in a Box;Standard;Standard;17.48;20.98;11;20;30
+FAL3UEH;FAL;Kittens in the Garden;;PUZZLE;Cats;500;Standard;Standard;Standard;13.3;15.96;19;10;40
+FAL3UQN;FAL;Cottage Retreat;;PUZZLE;Cottages;1000;Standard;Standard;Standard;17.09;20.51;34;20;40
+FAL427T;FAL;Garden Getaway;;PUZZLE;Flowers and Gardens;1000;Standard;Standard;Standard;17.32;20.78;8;20;50
+FAL428G;FAL;Fire!;;PUZZLE;Comedy/Cartoon;500;Standard;Standard;Standard;13.3;15.96;46;20;40
+FAL45Q7;FAL;Tour de France;;PUZZLE;Comedy/Cartoon;1500;Standard;Standard;Standard;25.25;30.3;15;0;75
+FAL46IO;FAL;Princesses and Horses - Cinderella;;PUZZLE;Horses;2650;Standard;Standard;Standard;9.49;11.39;32;10;40
+FAL4ATQ;FAL;Christmas Carriage;;PUZZLE;Christmas;1000;Standard;Standard;Standard;17.32;20.78;3;20;40
+FAL4DJ4;FAL;At The Beach;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;39;10;40
+FAL4FGA;FAL;Christmas Spirits;;PUZZLE;Christmas;1000;Standard;Standard;Standard;17.09;20.51;41;20;40
+FAL4H54;FAL;Pick a Friend;;PUZZLE;Dogs;500;Standard;Standard;Standard;13.3;15.96;55;20;40
+FAL4HMU;FAL;German Beer Festival;;PUZZLE;Comedy/Cartoon;500;Standard;Standard;Standard;13.3;15.96;47;20;40
+FAL4LC9;FAL;Mickey and Friends;;PUZZLE;Disney;500;2 Puzzles in a Box;Standard;Standard;20.9;25.08;16;0;100
+FAL4MME;FAL;Hidden Lake Chateau;;PUZZLE;Castles;1000;Standard;Standard;Deco Puzzle;21.36;25.63;2;0;20
+FAL4MVE;FAL;The Airshow;;PUZZLE;Comedy/Cartoon;1500;Standard;Standard;Standard;25.25;30.3;15;0;90
+FAL4Q04;FAL;Sharing Our Light;;PUZZLE;Miscellany;1500;Standard;Standard;Standard;24.98;29.98;7;0;40
+FAL52LB;FAL;Under the Sea;;PUZZLE;Sealife;1000;Standard;Standard;Standard;17.09;20.51;10;20;40
+FAL56TP;FAL;Cuddling Pandas;;PUZZLE;Wild;500;Standard;Standard;Standard;13.3;15.96;41;10;50
+FAL5BD8;FAL;Hanna Montana;;PUZZLE;Disney;350;Standard;Standard;Standard;13.3;15.96;24;10;50
+FAL5CLJ;FAL;Ballroom Dancing;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;23;10;40
+FAL5JJ3;FAL;The Cherry Pickers;;PUZZLE;Dogs;500;Standard;Standard;Standard;13.3;15.96;32;10;40
+FAL5K3U;FAL;The Antique Show;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;59;20;40
+FAL5RTO;FAL;The Zoo;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;16;20;50
+FAL5T56;FAL;Get Well Soon;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;51;20;40
+FAL5UH3;FAL;Buckingham Palace;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;17.32;20.78;26;20;50
+FAL5V06;FAL;Dog Humour, His Station 4 Aces;;PUZZLE;Dogs;500;Standard;Standard;Standard;13.3;15.96;2;10;40
+FAL5V52;FAL;The Airport;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;12;20;30
+FAL630N;FAL;Family of Lions;;PUZZLE;Big cats;500;Standard;Standard;Standard;13.3;15.96;47;20;40
+FAL67P3;FAL;Fishing With Friends;;PUZZLE;Countryside;1000;Standard;Standard;Deco Puzzle;21.36;25.63;5;0;40
+FAL67V7;FAL;Late Stroll;;PUZZLE;Christmas;1000;Standard;Standard;Deco Puzzle;21.36;25.63;13;0;65
+FAL6DCF;FAL;Nostalgic Brands;;PUZZLE;Food and Drink;1000;Standard;Standard;Standard;17.32;20.78;8;10;40
+FAL6ERF;FAL;In The Respray Shop;;PUZZLE;Comedy/Cartoon;500;Standard;Standard;Standard;13.3;15.96;5;20;50
+FAL6HOH;FAL;Disney Cars Movie Poster;;PUZZLE;Disney;500;Standard;Standard;Standard;13.3;15.96;8;10;30
+FAL6MGQ;FAL;Summer Cruise;;PUZZLE;Miscellany;500;Standard;Standard;Standard;13.3;15.96;52;10;40
+FAL6QJ1;FAL;Mountain Course;;PUZZLE;Comedy/Cartoon;54;Standard;Standard;Standard;5.7;6.84;53;10;30
+FAL6T90;FAL;Disney and Friends;;PUZZLE;Disney;1000;Standard;Standard;Standard;18.99;22.79;24;10;30
+FAL70LA;FAL;The Wedding;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;49;10;30
+FAL74N2;FAL;Animals in the Snow;;PUZZLE;Big cats;1000;Standard;Standard;Standard;17.15;20.58;33;10;40
+FAL7892;FAL;Country Village;;PUZZLE;Cottages;1500;Standard;Standard;Standard;22.22;26.66;2;0;15
+FAL795J;FAL;Afternoon Chat;;PUZZLE;Caribbean;1000;Standard;Standard;Deco Puzzle;21.36;25.63;13;0;75
+FAL7CSS;FAL;The Bandstand;;PUZZLE;Comedy/Cartoon;1500;Standard;Standard;Standard;25.25;30.3;17;0;105
+FAL7GKH;FAL;Hidden Xtra - Gone Bananas!;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;20.9;25.08;5;0;50
+FAL7H1V;FAL;Floral Fantasy;;PUZZLE;Cottages;1000;Standard;Standard;Standard;17.32;20.78;37;10;40
+FAL7I3M;FAL;Summer on the Canal;;PUZZLE;Farm Life;500;Standard;Standard;Standard;13.3;15.96;36;10;40
+FAL7JUT;FAL;Cats & Kitsch;;PUZZLE;Birds;1000;Standard;Standard;Standard;22.22;26.66;17;0;105
+FAL7RGA;FAL;Country Life;;PUZZLE;Cottages;1000;Standard;Standard;Standard;17.32;20.78;41;20;40
+FAL7V4D;FAL;All the Worlds a Stage;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;22.22;26.66;7;0;50
+FALDS44;FAL;White Christmas;;PUZZLE;Christmas;1000;Standard;Standard;Standard;18.99;22.79;23;10;40
+FALGE86;FAL;Cuddly Friends;;PUZZLE;Birds;1000;Standard;Standard;Standard;22.22;26.66;10;0;60
+FALIS54;FAL;Cinderella;;PUZZLE;Childrens;350;Standard;Standard;Glow in the Dark;36.1;43.32;12;0;75
+FALLM5D;FAL;London, Tower Bridge;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;17.32;20.78;16;10;50
+FALM6OL;FAL;Set of four Wasgij Puzzles;;PUZZLE;Comedy/Cartoon;500;4 Puzzles in a Box;Standard;Standard;54.41;65.29;3;0;20
+FALNCPR;FAL;Baker's Round;;PUZZLE;Horses;1000;Standard;Standard;Standard;17.32;20.78;33;10;40
+FALORLI;FAL;Find the Mouse;;PUZZLE;Comedy/Cartoon;500;Standard;Standard;Standard;13.3;15.96;57;20;50
+FALPBPR;FAL;Journey by the Sea;;PUZZLE;Ocean;1000;Standard;Standard;Standard;17.32;20.78;0;10;50
+FALR4DA;FAL;River Discovery;;PUZZLE;Birds;500;Standard;Standard;Standard;13.3;15.96;23;10;40
+FALS0BD;FAL;The Circus;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;41;20;40
+FALSNUO;FAL;Summertime Drivers;;PUZZLE;Countryside;500;2 Puzzles in a Box;Standard;Standard;18.99;22.79;58;20;30
+FSC7CG5;FSC;Earth Dragon;;PUZZLE;Fantasy;1000;Standard;Shaped Puzzle;Standard;21.59;25.91;13;0;85
+G21600;GIB;Jigsaw Puzzle Glue;Will cover an area approximately 1.15 Square Metres;GLUE;;0;;;;7.85;9.42;40;30;110
+HAM1IA8;HAM;Jungle Jaguar;;PUZZLE;Big cats;500;Standard;Standard;Standard;17.09;20.51;21;20;30
+HAM20L2;HAM;Spring Overture;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.43;22.12;10;10;30
+HAM24CL;HAM;Warriors - The Warning;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.43;22.12;30;20;40
+HAM24NU;HAM;Kingfishers;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.43;22.12;28;10;50
+HAM2CQM;HAM;Captain and Moonlight;;PUZZLE;Horses;1000;Standard;Standard;Standard;18.43;22.12;57;10;30
+HAM2V0I;HAM;Marine Mammals;;PUZZLE;Sealife;500;Standard;Standard;Standard;17.09;20.51;47;10;50
+HAM39A4;HAM;Desert Danger;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.43;22.12;53;20;40
+HAM3D73;HAM;Mountain View;;PUZZLE;Landscapes;1000;Standard;Standard;Standard;18.43;22.12;15;20;40
+HAM48G0;HAM;Man's Best Friends;;PUZZLE;Dogs;1000;Standard;Standard;Standard;18.43;22.12;27;20;40
+HAM4S6P;HAM;Jungle Panda;;PUZZLE;Wild;500;Standard;Standard;Standard;17.09;20.51;60;20;40
+HAM4VBQ;HAM;Spots and Stripes;;PUZZLE;Big cats;500;Standard;Standard;Standard;17.09;20.51;8;10;50
+HAM5I2Q;HAM;Windmill on the River;;PUZZLE;Waterways;500;Standard;Standard;Standard;17.09;20.51;23;10;40
+HAM5PDK;HAM;The Hedgehog Family;;PUZZLE;Wild;1000;Standard;Standard;Standard;18.43;22.12;32;20;30
+HAM5R9O;HAM;Wild Ducks;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.43;22.12;3;10;40
+HAM5S4S;HAM;Wild Cats;;PUZZLE;Big cats;500;Standard;Standard;Standard;17.09;20.51;29;10;40
+HAM63SB;HAM;European Birds;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.43;22.12;58;20;50
+HAM6OIQ;HAM;Birds of Costa Rica;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.43;22.12;39;20;50
+HAM6VH9;HAM;Artic Discovery;;PUZZLE;Sealife;500;Standard;Standard;Standard;17.09;20.51;26;10;40
+HAM73R9;HAM;Coral Sea;;PUZZLE;Birds;500;Standard;Standard;Standard;17.09;20.51;36;20;40
+HAM7FOR;HAM;West Highland Whites;;PUZZLE;Dogs;1000;Standard;Standard;Standard;18.43;22.12;42;10;30
+HAM7NUN;HAM;Cats of Mountains;;PUZZLE;Big cats;1500;Standard;Standard;Standard;24.3;29.16;18;0;110
+HAM7UNF;HAM;Madagascan Wildlife;;PUZZLE;Birds;500;Standard;Standard;Standard;17.09;20.51;56;20;40
+HAMN5KA;HAM;Rainforest Parrots;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.43;22.12;15;10;40
+HAMOD5I;HAM;Birds of Lake, Forest and Field;;PUZZLE;Birds;500;Standard;Standard;Standard;17.09;20.51;55;20;40
+HAMOPP3;HAM;Falcons;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.43;22.12;32;20;40
+HAMU3VP;HAM;Barn Owl and Family;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.43;22.12;50;20;30
+HAS001;HAS;Hasbro Liquid Puzzle Saver Glue;Glue dries in one hour. 4 Fl. Oz.;GLUE;;0;;;;2.0;2.4;120;30;100
+HEY12R1;HEY;Spell;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;22.8;27.36;8;0;60
+HEY190I;HEY;Nessie;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;23.31;27.97;5;0;25
+HEY1ORQ;HEY;Attack;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;22.8;27.36;16;0;80
+HEY1OSB;HEY;Parade - Barrientos;;PUZZLE;Comedy/Cartoon;2000;Standard;Standard;Standard;44.69;53.63;9;0;45
+HEY1RT9;HEY;Napoleons Winter Games;;PUZZLE;Comedy/Cartoon;4000;Standard;Standard;Standard;72.65;87.18;10;0;55
+HEY2118;HEY;Vampires;;PUZZLE;Victoria Frances;1000;Standard;Standard;Standard;22.8;27.36;4;0;25
+HEY21OV;HEY;Dogs;;PUZZLE;Dogs;1000;Standard;Standard;Standard;22.8;27.36;2;0;20
+HEY22IT;HEY;Wave.;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;23.31;27.97;1;0;30
+HEY27H8;HEY;Pisa in Motion;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;23.31;27.97;5;0;50
+HEY2841;HEY;Tokyo;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;23.31;27.97;9;0;65
+HEY2ASG;HEY;Castle of Horrors by Loup;;PUZZLE;Comedy/Cartoon;2000;Standard;Standard;Standard;44.69;53.63;14;0;75
+HEY2B8N;HEY;Wildlife;;PUZZLE;Wild;1500;Standard;Standard;Standard;34.97;41.96;7;0;40
+HEY2BOM;HEY;Labyrinth of Life;;PUZZLE;Miscellany;2000;Standard;Standard;Standard;44.69;53.63;15;0;85
+HEY2I2B;HEY;Under The Rainbow;;PUZZLE;Birds;1000;Standard;Standard;Standard;17.15;20.58;55;10;50
+HEY2IIR;HEY;Streetlife;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;40;20;50
+HEY2LK6;HEY;Upside Down.;;PUZZLE;Comedy/Cartoon;4000;Standard;Standard;Standard;72.65;87.18;1;0;20
+HEY2TDM;HEY;Leaves;;PUZZLE;Fantasy;2000;Standard;Standard;Standard;38.01;45.61;3;0;35
+HEY33PS;HEY;Hannibal.;;PUZZLE;Comedy/Cartoon;2000;Standard;Standard;Standard;44.69;53.63;5;0;40
+HEY35BE;HEY;Happy Birthday;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;23.31;27.97;20;0;105
+HEY36F6;HEY;Pasta Italiano;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;23.31;27.97;14;0;85
+HEY3GDA;HEY;United Dragons of Europe;;PUZZLE;Comedy/Cartoon;4000;Standard;Standard;Standard;72.65;87.18;20;0;115
+HEY3PCI;HEY;Ocean;;PUZZLE;Sealife;1000;Standard;Standard;Standard;23.31;27.97;17;0;100
+HEY3Q8B;HEY;Monaco Grand Prix;;PUZZLE;Comedy/Cartoon;2000;Standard;Standard;Standard;44.69;53.63;7;0;50
+HEY3UCT;HEY;Heaven and Hell;;PUZZLE;Comedy/Cartoon;1500;Standard;Standard;Standard;34.97;41.96;3;0;40
+HEY3VKN;HEY;Adventure by Prades;;PUZZLE;Comedy/Cartoon;1500;Standard;Standard;Standard;34.97;41.96;18;0;90
+HEY434R;HEY;Museum.;;PUZZLE;Comedy/Cartoon;2000;Standard;Standard;Standard;44.69;53.63;5;0;45
+HEY43J0;HEY;Way to Heaven;;PUZZLE;Comedy/Cartoon;2000;Standard;Standard;Standard;38.01;45.61;1;0;5
+HEY4622;HEY;Lava;;PUZZLE;Castles;1000;Standard;Standard;Standard;23.31;27.97;7;0;50
+HEY46NQ;HEY;Cats;;PUZZLE;Birds;1000;Standard;Standard;Standard;22.8;27.36;7;0;60
+HEY495D;HEY;New York.;;PUZZLE;Comedy/Cartoon;1500;Standard;Standard;Standard;34.97;41.96;4;0;35
+HEY4AAD;HEY;Billiard;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;23.31;27.97;7;0;60
+HEY4BF1;HEY;Flight.;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;23.31;27.97;5;0;40
+HEY4CRM;HEY;Firebreath;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;20.9;25.08;1;0;20
+HEY4DH8;HEY;Vino by Blanchon;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;23.31;27.97;12;0;75
+HEY4EDI;HEY;Lost Temple;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;37;20;40
+HEY4IPS;HEY;Wolf;;PUZZLE;Wild;2000;Standard;Standard;Standard;38.01;45.61;1;0;25
+HEY4KIE;HEY;Tarzan;;PUZZLE;Wild;1000;Standard;Standard;Standard;23.31;27.97;11;0;55
+HEY505J;HEY;Reading;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;22.8;27.36;9;0;55
+HEY5BA3;HEY;Black;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;23.31;27.97;12;0;80
+HEY5BLS;HEY;Funny Farm;;PUZZLE;Farm Life;1500;Standard;Standard;Standard;34.97;41.96;6;0;45
+HEY5E7S;HEY;Vineyard.;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;23.31;27.97;10;0;55
+HEY5F72;HEY;Open Air;;PUZZLE;Comedy/Cartoon;2000;Standard;Standard;Standard;44.69;53.63;20;0;105
+HEY5KMI;HEY;Boat.;;PUZZLE;Fantasy;2000;Standard;Standard;Standard;44.69;53.63;15;0;90
+HEY5MFK;HEY;Flight;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;23.31;27.97;8;0;60
+HEY5P7A;HEY;Action;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;23.31;27.97;7;0;45
+HEY5R3R;HEY;Soft Rock;;PUZZLE;Comedy/Cartoon;1500;Standard;Standard;Standard;28.5;34.2;5;0;30
+HEY5RV6;HEY;Tears;;PUZZLE;Fantasy;2000;Standard;Standard;Standard;44.69;53.63;12;0;80
+HEY5RVG;HEY;Midnight;;PUZZLE;Victoria Frances;1000;Standard;Standard;Standard;22.8;27.36;3;0;25
+HEY61UJ;HEY;Poison by Victoria Frances;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;22.8;27.36;17;0;95
+HEY62AM;HEY;Meditation;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;22.8;27.36;14;0;85
+HEY66G4;HEY;Ahoy!;;PUZZLE;Comedy/Cartoon;1500;Standard;Standard;Standard;34.97;41.96;5;0;45
+HEY66I8;HEY;Moonlight;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;22.8;27.36;12;0;75
+HEY68RD;HEY;Egypt;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;3;20;40
+HEY699V;HEY;Games;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;23.31;27.97;8;0;65
+HEY69G4;HEY;Take off!;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;23.31;27.97;3;0;35
+HEY6G34;HEY;Birds;;PUZZLE;Birds;1000;Standard;Standard;Standard;17.15;20.58;13;20;50
+HEY6HP4;HEY;Violin;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;22.8;27.36;6;0;35
+HEY6LNO;HEY;Witch;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;22.8;27.36;3;0;15
+HEY6PFU;HEY;Idyll.;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;23.31;27.97;5;0;45
+HEY6QTG;HEY;Hannibal;;PUZZLE;Comedy/Cartoon;2000;Standard;Standard;Standard;44.69;53.63;16;0;85
+HEY6U44;HEY;Variete;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;23.31;27.97;14;0;75
+HEY720D;HEY;Space;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;22;10;30
+HEY72FN;HEY;Wings;;PUZZLE;Castles;1000;Standard;Standard;Standard;22.8;27.36;17;0;100
+HEY740E;HEY;Museum;;PUZZLE;Comedy/Cartoon;2000;Standard;Standard;Standard;44.69;53.63;5;0;45
+HEY743O;HEY;The Dog ShowPlayground;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;23.31;27.97;15;0;80
+HEY7BMT;HEY;Orchestra;;PUZZLE;Comedy/Cartoon;2000;Standard;Standard;Standard;44.69;53.63;2;0;20
+HEY7EEA;HEY;Bon Appetit;;PUZZLE;Comedy/Cartoon;1500;Standard;Standard;Standard;34.97;41.96;12;0;70
+HEY7FP4;HEY;Indian Summer;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;41;20;40
+HEY7P6B;HEY;Raven;;PUZZLE;Birds;1000;Standard;Standard;Standard;22.8;27.36;8;0;50
+HEY7VQM;HEY;Angel;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;22.8;27.36;20;0;100
+HEYEM5R;HEY;Sweet Berries;;PUZZLE;Flowers and Gardens;1000;Standard;Standard;Standard;17.15;20.58;23;10;40
+HEYGJL1;HEY;Dress;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;23.31;27.97;1;0;25
+HEYJ1LP;HEY;Middle Ages;;PUZZLE;Castles;1000;Standard;Standard;Standard;23.31;27.97;16;0;95
+HEYMPAP;HEY;Wanted - Diamonds;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;21.87;26.24;5;0;35
+HEYNF5D;HEY;Playground;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;23.31;27.97;2;0;15
+HEYOEK3;HEY;Portrait;;PUZZLE;Victoria Frances;1000;Standard;Standard;Standard;22.8;27.36;8;0;55
+HEYQH72;HEY;Theatre Cat;;PUZZLE;Birds;1000;Standard;Standard;Standard;17.15;20.58;54;10;50
+HEYU8I2;HEY;Harp;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;22.8;27.36;5;0;35
+IT7075;TDC;Collapsible Puzzle Roll-Up;36" Felt Fuzzle Pad & a Collapsible Roll-Up Tube;STORAGE;;0;;;;9.1;10.92;12;5;15
+JITH398;JIG;Jigboard 500;For most jigsaws up to 500 pieces - 52 cm x 39. 5 cm - 20.5" x 15.5";STORAGE;;0;;;;24.15;28.98;19;5;15
+JITH399;JIG;Jigboard 1000;For most jigsaws up to 1,000 pieces - 75 cm x 52 cm - 29.5" x 20.5";STORAGE;;0;;;;32.1;38.52;19;5;15
+JITHS50;JIG;Jigsafe;Storage boxes for loose pieces;STORAGE;;0;;;;24.15;28.98;20;5;15
+JJGL291;JUM;Puzzle Glue;One bottle will cover 2000 regular puzzle pieces.;GLUE;;0;;;;6.75;8.1;95;30;110
+JRJ1FPD;JRJ;Map of Ireland;;PUZZLE;World;0;Standard;Standard;Standard;14.42;17.3;45;10;50
+JRJ2968;JRJ;Celestial Planisphere;;PUZZLE;Astronomy;1000;Standard;Standard;Glow in the Dark;18.99;22.79;20;20;40
+JRJ2VE9;JRJ;Map of South America;;PUZZLE;World;500;Standard;Standard;Standard;14.42;17.3;39;20;30
+JRJ3B5U;JRJ;Map of Africa;;PUZZLE;World;0;Standard;Standard;Standard;14.42;17.3;19;20;40
+JRJ3E6L;JRJ;European Map;;PUZZLE;World;500;Standard;Standard;Standard;14.42;17.3;20;10;50
+JRJ63I4;JRJ;Hedgerow Flowers;;PUZZLE;Flowers and Gardens;500;Standard;Standard;Standard;11.41;13.69;55;10;30
+JRJ6MKV;JRJ;Map of Asia;;PUZZLE;World;0;Standard;Standard;Standard;14.42;17.3;46;10;40
+JRJ74P4;JRJ;British Freshwater Fish;;PUZZLE;Sealife;500;Standard;Standard;Standard;11.41;13.69;56;10;30
+JRJ7CCG;JRJ;Map of Australia;;PUZZLE;World;500;Standard;Standard;Standard;14.42;17.3;2;20;40
+JRJ7SPO;JRJ;Animal and Sealife World Map;;PUZZLE;Sealife;500;Standard;Standard;Standard;14.42;17.3;14;20;30
+JRJRR4H;JRJ;British Isles Map;;PUZZLE;World;500;Standard;Standard;Standard;14.42;17.3;53;20;40
+JUMBO101;JUM;A Gondola Ride in Venice;;PUZZLE;Famous Landmarks;1500;Standard;Standard;Standard;21.33;25.6;12;0;65
+JUMBO102;JUM;Afternoon Tea;;PUZZLE;Dogs;500;Standard;Standard;Standard;13.3;15.96;7;20;30
+JUMBO103;JUM;Ascending and Descending;;PUZZLE;Escher;1000;Standard;Standard;Standard;22.8;27.36;4;0;40
+JUMBO104;JUM;Bond of Union;;PUZZLE;Artists;1000;Standard;Standard;Standard;22.8;27.36;4;0;25
+JUMBO105;JUM;Cars;;PUZZLE;Disney;0;Standard;3D Puzzle;Standard;26.59;31.91;17;0;85
+JUMBO106;JUM;Cat in a Basket;;PUZZLE;Cats;1000;Standard;Standard;Standard;17.09;20.51;4;10;50
+JUMBO107;JUM;Cinderellas Grand Arrival;;PUZZLE;Castles;1000;Standard;Standard;Standard;19.38;23.26;41;10;40
+JUMBO108;JUM;Concave & Convex;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;22.8;27.36;7;0;40
+JUMBO109;JUM;Cuddly Cats;;PUZZLE;Birds;1000;Standard;Standard;Standard;21.13;25.36;19;0;120
+JUMBO110;JUM;Decades. Remember the 1950s;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;17.48;20.98;16;20;40
+JUMBO111;JUM;Disney Cinderella;;PUZZLE;Disney;1000;Standard;Standard;Deco Puzzle;21.36;25.63;13;0;75
+JUMBO112;JUM;Drawing Hands;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;22.8;27.36;14;0;80
+JUMBO113;JUM;Floral Fantasy;;PUZZLE;Cottages;1000;Standard;Standard;Standard;17.09;20.51;6;20;40
+JUMBO114;JUM;Forest Blessing;;PUZZLE;Fantasy;1500;Standard;Standard;Foil Puzzle;25.25;30.3;6;0;30
+JUMBO115;JUM;Fruit and Flowers;;PUZZLE;Flowers and Gardens;1000;Standard;Standard;Standard;17.09;20.51;19;10;40
+JUMBO116;JUM;Get the Cat;;PUZZLE;Birds;500;Standard;Standard;Standard;13.3;15.96;46;10;30
+JUMBO117;JUM;Grandma's Kitchen - Joan Steiner;;PUZZLE;Food and Drink;1000;Standard;Standard;Standard;21.36;25.63;1;0;30
+JUMBO118;JUM;Hosanna - Tom Dubois;;PUZZLE;Religious;1000;Standard;Standard;Standard;21.36;25.63;7;0;50
+JUMBO119;JUM;Kittens;;PUZZLE;Cats;500;Standard;Standard;Standard;13.3;15.96;42;10;50
+JUMBO120;JUM;Lakeside Retreat;;PUZZLE;Flowers and Gardens;1000;Standard;Standard;Deco Puzzle;21.36;25.63;2;0;30
+JUMBO121;JUM;Mosaic II.;;PUZZLE;Artists;1000;Standard;Standard;Standard;22.8;27.36;15;0;90
+JUMBO122;JUM;Olympics;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;10;10;40
+JUMBO123;JUM;On Thin Ice;;PUZZLE;Comedy/Cartoon;3000;Standard;Standard;Standard;38.86;46.63;6;0;45
+JUMBO124;JUM;Proud as a Peacock;;PUZZLE;Birds;1000;Standard;Standard;Deco Puzzle;21.36;25.63;6;0;40
+JUMBO125;JUM;Puppies;;PUZZLE;Dogs;1000;Standard;Standard;Standard;22.22;26.66;10;0;70
+JUMBO126;JUM;Reptiles;;PUZZLE;Artists;1000;Standard;Standard;Standard;22.8;27.36;15;0;100
+JUMBO127;JUM;Rescuing Piglet;;PUZZLE;Disney;1000;Standard;Standard;Standard;19.38;23.26;10;10;40
+JUMBO128;JUM;Santa's List;;PUZZLE;Dogs;1000;Standard;Standard;Deco Puzzle;21.36;25.63;9;0;55
+JUMBO129;JUM;Santa's Workshop;;PUZZLE;Christmas;1000;Standard;Standard;Standard;21.36;25.63;18;0;100
+JUMBO130;JUM;Seaside Antics!;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.47;22.16;7;20;40
+JUMBO131;JUM;That warm Christmas Feeling;;PUZZLE;Christmas;1000;Standard;Standard;Standard;18.99;22.79;27;10;30
+JUMBO132;JUM;The Chess Game;;PUZZLE;Comedy/Cartoon;500;Standard;Standard;Standard;13.06;15.67;48;20;50
+JUMBO133;JUM;The Circus;;PUZZLE;Comedy/Cartoon;3000;Standard;Standard;Standard;38.86;46.63;9;0;55
+JUMBO134;JUM;The Dog Show;;PUZZLE;Dogs;3000;Standard;Standard;Standard;38.86;46.63;7;0;50
+JUMBO135;JUM;The Fawn;;PUZZLE;Wild;1000;Standard;Standard;Foil Puzzle;21.36;25.63;4;0;35
+JUMBO136;JUM;The Golf Course;;PUZZLE;Comedy/Cartoon;1500;Standard;Standard;Standard;25.25;30.3;2;0;30
+JUMBO137;JUM;The Kitchen;;PUZZLE;Comedy/Cartoon;2000;Standard;Standard;Standard;34.89;41.87;1;0;15
+JUMBO138;JUM;The New Seven Wonders of the World;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;17.32;20.78;24;20;40
+JUMBO139;JUM;The Nutcracker.;;PUZZLE;Christmas;1000;Standard;Standard;Standard;21.36;25.63;10;0;70
+JUMBO140;JUM;The Parables.;;PUZZLE;Religious;1000;Standard;Standard;Standard;22.22;26.66;16;0;90
+JUMBO141;JUM;The Playground;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;24;10;40
+JUMBO142;JUM;The Pride;;PUZZLE;Big cats;1000;Standard;Standard;Foil Puzzle;21.36;25.63;13;0;85
+JUMBO143;JUM;The Seven Dwarfs;;PUZZLE;Disney;1000;Standard;Standard;Standard;19.38;23.26;25;20;40
+JUMBO144;JUM;The Village Square;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;17.48;20.98;1;20;30
+JUMBO145;JUM;View from the Empire State Building;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;17.15;20.58;2;20;30
+JUMBO146;JUM;Waterfall.;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;22.8;27.36;19;0;110
+JUMBO147;JUM;Winnie and Friends Fishing;;PUZZLE;Disney;1000;Standard;Standard;Standard;19.38;23.26;51;20;30
+KIN10QB;KIN;Hepworth Hall Bridge;;PUZZLE;Farm Life;500;Standard;Standard;Wooden Puzzle;13.3;15.96;42;20;40
+KIN10QQ;KIN;Steam Trains;;PUZZLE;Trains;1000;Standard;Standard;Standard;18.99;22.79;11;20;50
+KIN1261;KIN;Playful Moments;;PUZZLE;Birds;500;Standard;Standard;Wooden Puzzle;13.36;16.03;5;10;40
+KIN16GR;KIN;Puppy Party;;PUZZLE;Dogs;1000;Standard;Standard;Standard;15.53;18.64;4;20;40
+KIN1GGT;KIN;The Angel Inn;;PUZZLE;Caribbean;500;Standard;Standard;Standard;10.69;12.83;13;20;40
+KIN1KOU;KIN;Crazy Orchestra;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;15.53;18.64;50;20;40
+KIN1N17;KIN;A Letter for Santa;;PUZZLE;Christmas;500;Standard;Standard;Standard;10.69;12.83;26;20;40
+KIN2EDL;KIN;Summer Fruits;;PUZZLE;Flowers and Gardens;500;Standard;Standard;Wooden Puzzle;13.3;15.96;40;10;40
+KIN2JM2;KIN;Cats;;PUZZLE;Birds;1000;Standard;Standard;Standard;15.53;18.64;29;20;40
+KIN2JN3;KIN;Picadilly Circus;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;15.53;18.64;42;10;30
+KIN2RTK;KIN;Crazy Olympics;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;15.53;18.64;30;20;30
+KIN3EQE;KIN;Canal Boat Scene;;PUZZLE;Waterways;1000;Standard;Standard;Standard;15.53;18.64;45;20;50
+KIN3G8M;KIN;The Picnic;;PUZZLE;Farm Life;500;Standard;Standard;Standard;10.69;12.83;8;10;30
+KIN3HJ3;KIN;Gipsy Moth;;PUZZLE;Airplanes;500;Standard;Standard;Standard;10.69;12.83;41;10;40
+KIN3LN8;KIN;Twilight Village;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;18.99;22.79;54;10;40
+KIN3PEL;KIN;The Coronation Scot;;PUZZLE;Trains;500;Standard;Standard;Standard;10.69;12.83;51;20;40
+KIN3UG7;KIN;Village Football;;PUZZLE;Cars;500;Standard;Standard;Standard;10.69;12.83;19;20;50
+KIN4110;KIN;Defending the Country;;PUZZLE;Airplanes;500;Standard;Standard;Standard;17.09;20.51;48;20;40
+KIN47HH;KIN;Cornish Riviera Express;;PUZZLE;Trains;500;Standard;Standard;Wooden Puzzle;13.3;15.96;20;20;40
+KIN4HEB;KIN;The Swimming Pool;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;15.53;18.64;53;20;40
+KIN4KC1;KIN;Remembrance;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;15.53;18.64;38;10;30
+KIN4PR8;KIN;Bear Cottage.;;PUZZLE;Cottages;1000;Standard;Standard;Standard;18.99;22.79;49;10;50
+KIN4T6T;KIN;The Village Pumps;;PUZZLE;Dogs;500;Standard;Standard;Standard;10.69;12.83;39;10;50
+KIN5588;KIN;The Bahamas;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;15.53;18.64;55;10;30
+KIN55KS;KIN;Golden Summer Days;;PUZZLE;Dogs;500;Standard;Circular Puzzle;Standard;13.06;15.67;21;10;30
+KIN582Q;KIN;Cruise;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;15.53;18.64;22;20;30
+KIN5EJR;KIN;Dancers;;PUZZLE;Renoir;1000;Standard;Standard;Standard;15.53;18.64;19;20;40
+KIN5GGO;KIN;Classic Sportscars;;PUZZLE;Cars;1000;Standard;Standard;Standard;18.99;22.79;10;20;40
+KIN5GRF;KIN;RAF Legends;;PUZZLE;Airplanes;1000;Standard;Standard;Standard;18.99;22.79;33;10;30
+KIN5JSI;KIN;Welford upon Avon;;PUZZLE;Cottages;1000;Standard;Standard;Standard;15.53;18.64;32;20;40
+KIN5MJA;KIN;Crazy BBQ;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;15.53;18.64;58;20;40
+KIN5OFE;KIN;The Vets Visit;;PUZZLE;Farm Life;500;Standard;Standard;Standard;10.69;12.83;59;20;50
+KIN5ROF;KIN;The Ritz Please;;PUZZLE;Cars;500;Standard;Standard;Standard;17.09;20.51;15;10;50
+KIN5UHO;KIN;Art Gallery Disney;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;17.09;20.51;46;20;50
+KIN5UJG;KIN;Two Chunky;;PUZZLE;Countryside;500;2 Puzzles in a Box;Standard;Wooden Puzzle;18.99;22.79;48;20;40
+KIN61N3;KIN;Lanes End;;PUZZLE;Dogs;1000;Standard;Standard;Standard;15.53;18.64;25;20;40
+KIN651P;KIN;Blue Paradise;;PUZZLE;Sealife;500;Standard;Standard;Standard;10.69;12.83;22;20;40
+KIN69PT;KIN;Angel Falls;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;18.99;22.79;32;10;40
+KIN6C47;KIN;Lifes Pleasures;;PUZZLE;Food and Drink;500;Standard;Standard;Standard;10.69;12.83;21;10;40
+KIN6H6K;KIN;Garage Jaguar;;PUZZLE;Cars;500;Standard;Standard;Standard;17.09;20.51;53;10;50
+KIN70AF;KIN;Spring Sentiments;;PUZZLE;Flowers and Gardens;500;Standard;Standard;Standard;10.69;12.83;2;20;50
+KIN7378;KIN;The Mill Pond;;PUZZLE;Flowers and Gardens;1000;Standard;Standard;Standard;15.53;18.64;0;20;50
+KIN7549;KIN;Following the Train;;PUZZLE;Beaches;500;Standard;Standard;Standard;10.69;12.83;20;10;40
+KIN75FG;KIN;Polperro Harbour;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;15.53;18.64;42;10;30
+KIN7CSK;KIN;Racing The Train;;PUZZLE;Cars;500;Standard;Standard;Standard;17.09;20.51;17;10;50
+KIN7E9I;KIN;Animal Friends;;PUZZLE;Birds;500;Standard;Standard;Standard;10.69;12.83;52;10;40
+KIN7G2T;KIN;Leopard and Cub;;PUZZLE;Big cats;500;Standard;Standard;Standard;10.69;12.83;7;20;30
+KIN7ID5;KIN;Twin Tails and Carrot Tops;;PUZZLE;Beaches;500;Standard;Standard;Standard;10.69;12.83;58;20;40
+KIN7K7N;KIN;The Dolomites;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;15.53;18.64;8;10;40
+KIN7TL1;KIN;Winterscene;;PUZZLE;Snow;1000;Standard;Standard;Standard;18.99;22.79;50;20;30
+KIN7U26;KIN;Ocean Life;;PUZZLE;Sealife;1000;Standard;Standard;Standard;15.53;18.64;36;20;40
+KINCL8V;KIN;Wintersport;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;15.53;18.64;58;20;40
+KINGBKD;KIN;Cruise Liners;;PUZZLE;Boats;1000;Standard;Standard;Standard;18.99;22.79;44;20;50
+KINHQVB;KIN;Alpine Rally;;PUZZLE;Cars;500;Standard;Standard;Standard;10.69;12.83;56;20;30
+KINK0AS;KIN;Crazy Europe.;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;15.53;18.64;37;10;50
+KINQR1L;KIN;Golf;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;15.53;18.64;25;20;40
+KINTS0D;KIN;Buses.;;PUZZLE;Buses;1000;Standard;Standard;Standard;18.99;22.79;14;10;30
+LAR3E9J;LAR;Lion Hunt Playtray;;PUZZLE;Wild;51100;Standard;Standard;Standard;9.49;11.39;14;20;40
+MEL1F0A;MEL;Fire Engine;;PUZZLE;PreSchool;0;Standard;Standard;Standard;18.99;22.79;14;20;50
+MEL1H31;MEL;Under the Sea;;PUZZLE;Sealife;0;Standard;Standard;Wooden Puzzle;19.19;23.03;46;10;40
+MEL1TT8;MEL;African Plains;;PUZZLE;Wild;0;Standard;Standard;Wooden Puzzle;19.19;23.03;12;20;50
+MEL2AKM;MEL;On the Go;;PUZZLE;PreSchool;0;Standard;Standard;Wooden Puzzle;11.64;13.97;14;10;40
+MEL3NO9;MEL;Farm Animals;;PUZZLE;PreSchool;0;Standard;Standard;Wooden Puzzle;19.42;23.3;2;10;30
+MEL3RH2;MEL;Vehicles;;PUZZLE;PreSchool;0;Standard;Standard;Wooden Puzzle;11.64;13.97;48;20;30
+MEL4ADJ;MEL;Farmyard Animals;;PUZZLE;PreSchool;0;Standard;Standard;Wooden Puzzle;19.42;23.3;36;10;40
+MEL4M7E;MEL;On the Farm;;PUZZLE;PreSchool;0;Standard;Standard;Wooden Puzzle;11.64;13.97;60;20;40
+MEL5IH4;MEL;See-Inside Alphabet;;PUZZLE;PreSchool;0;Standard;Standard;Wooden Puzzle;11.64;13.97;8;20;40
+MEL62HA;MEL;Safari;;PUZZLE;Wild;0;Standard;Standard;Wooden Puzzle;11.64;13.97;57;20;40
+MEL6CVQ;MEL;See-Inside Numbers;;PUZZLE;PreSchool;0;Standard;Standard;Wooden Puzzle;11.64;13.97;29;20;30
+MEL6DMH;MEL;Construction Vehicles;;PUZZLE;PreSchool;0;Standard;Standard;Wooden Puzzle;19.42;23.3;8;10;30
+MEL7PGF;MEL;Alphabet Express;;PUZZLE;PreSchool;0;Standard;Standard;Standard;18.99;22.79;16;20;40
+MEL7SP3;MEL;Shapes;;PUZZLE;PreSchool;0;Standard;Standard;Wooden Puzzle;19.42;23.3;47;10;40
+MELDNG5;MEL;Pets;;PUZZLE;Dogs;0;Standard;Standard;Wooden Puzzle;19.42;23.3;38;10;40
+MP-201;MAS;MasterPieces Glue;One bottle will cover 3000 regular puzzle pieces. Comes complete with cardboard applicator.;GLUE;;0;;;;5.0;6.0;117;30;110
+MP-F00;MAS;Masterpieces wood puzzle frame;Puzzle size (550 pieces) 45.7 x 61 cm - 18 x 24 in;FRAME;;0;;;;22.9;27.48;11;5;15
+OTT13RH;OTT;Flower Garden;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.92;22.7;28;20;50
+OTT1GAM;OTT;Flower Pots;;PUZZLE;Flowers and Gardens;1000;Standard;Standard;Standard;18.99;22.79;20;10;50
+OTT1PJG;OTT;Saddle Up;;PUZZLE;Horses;1000;Standard;Standard;Standard;18.92;22.7;10;20;30
+OTT1QJA;OTT;Guinea Pig Tastic;;PUZZLE;Farm Life;1000;Standard;Standard;Standard;18.92;22.7;39;10;40
+OTT1U46;OTT;A Company of Cats;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.99;22.79;51;20;50
+OTT1V5E;OTT;In the Pink;;PUZZLE;Dogs;1000;Standard;Standard;Standard;18.99;22.79;0;20;30
+OTT20G0;OTT;Dogtastic;;PUZZLE;Dogs;1000;Standard;Standard;Standard;18.99;22.79;60;10;50
+OTT287K;OTT;Shadowlands;;PUZZLE;Wild;1000;Standard;Standard;Standard;18.99;22.79;43;20;50
+OTT2GOJ;OTT;Sheepdog Trials;;PUZZLE;Dogs;1000;Standard;Standard;Standard;18.99;22.79;57;20;40
+OTT2KU1;OTT;The Old Red Tractor;;PUZZLE;Dogs;1000;Standard;Standard;Standard;18.99;22.79;8;20;30
+OTT2TD8;OTT;An English Country Garden;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.99;22.79;13;20;50
+OTT3C5A;OTT;The Potting Shed;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.92;22.7;10;20;40
+OTT3PID;OTT;Hay Making;;PUZZLE;Dogs;1000;Standard;Standard;Standard;18.92;22.7;55;20;40
+OTT41MI;OTT;Nostalgic Transport;;PUZZLE;Airplanes;1000;Standard;Standard;Standard;18.99;22.79;42;10;30
+OTT4240;OTT;The Cricket Green;;PUZZLE;Cars;1000;Standard;Standard;Standard;18.92;22.7;10;20;30
+OTT4LKJ;OTT;All Aboard!;;PUZZLE;Dogs;1000;Standard;Standard;Standard;18.99;22.79;45;20;40
+OTT5299;OTT;March of the Mighty Elephant;;PUZZLE;Wild;1000;Standard;Standard;Standard;18.99;22.79;5;10;30
+OTT57J3;OTT;Romulus and Remus;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.99;22.79;57;20;50
+OTT5H0B;OTT;Kitchen Garden;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.99;22.79;7;10;50
+OTT68AD;OTT;Mixed Cats;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.99;22.79;30;20;40
+OTT6CKL;OTT;Fire and Water, Tiger Montage;;PUZZLE;Big cats;1000;Standard;Standard;Standard;18.99;22.79;48;20;30
+OTT6HKU;OTT;Rose Garden;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.99;22.79;47;10;40
+OTT6P1J;OTT;Watching and Waiting;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.92;22.7;26;10;40
+OTT6Q2H;OTT;Cattastic;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.99;22.79;15;20;40
+OTT6S4G;OTT;The Owl and the Pussycat;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.99;22.79;31;10;40
+OTT73ED;OTT;Summer Fete;;PUZZLE;Flowers and Gardens;1000;Standard;Standard;Standard;18.99;22.79;37;20;50
+OTT7GSI;OTT;The Night before Christmas;;PUZZLE;Dogs;1000;Standard;Standard;Standard;18.92;22.7;22;10;40
+OTT7I8S;OTT;Bill and Ben;;PUZZLE;Dogs;1000;Standard;Standard;Standard;18.99;22.79;50;10;50
+OTT7O9T;OTT;Favourite Friends;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.99;22.79;7;20;40
+OTT7U21;OTT;Garden Party;;PUZZLE;Flowers and Gardens;1000;Standard;Standard;Standard;18.99;22.79;1;20;40
+OTTJM4I;OTT;Kitchen Cats;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.92;22.7;44;10;40
+OTTQ4JS;OTT;Spirit of the Horse;;PUZZLE;Horses;1000;Standard;Standard;Standard;18.99;22.79;38;10;40
+OTTS2KDM;OTT;Dogs at Work;;PUZZLE;Dogs;750;Standard;Standard;Standard;13.3;15.96;13;20;30
+OTTS49Q2;OTT;British Game Birds;;PUZZLE;Birds;750;Standard;Standard;Standard;12.54;15.05;17;10;40
+OTTS73UR;OTT;Springtime;;PUZZLE;Countryside;750;Standard;Standard;Standard;13.3;15.96;59;10;40
+OTTS7VGS;OTT;Sweet Peas;;PUZZLE;Flowers and Gardens;750;Standard;Standard;Standard;13.06;15.67;10;10;40
+OTTSCNC;OTT;Winter Village;;PUZZLE;Dogs;1000;Standard;Standard;Standard;18.92;22.7;8;10;40
+OTTSOLS;OTT;Westies Bluebells of Scotland;;PUZZLE;Dogs;1000;Standard;Standard;Standard;18.99;22.79;18;10;50
+PAU1K9C;PAU;Wheres Wally? Being a Pirate;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.43;22.12;45;20;40
+PAU332H;PAU;Carnival;;PUZZLE;Birds;1000;Standard;Standard;Standard;17.15;20.58;2;20;30
+PAU4IOS;PAU;Spot the Difference;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;17.15;20.58;26;20;40
+PAU4V93;PAU;Wheres Wally? The Wild Wild West;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.43;22.12;21;20;40
+PAUT2VU;PAU;Wheres Wally?;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.43;22.12;59;20;50
+PG8201;SUN;Sunsout Puzzle Conserver Glue;;GLUE;;0;;;;9.5;11.4;111;40;110
+PRE23F0;PRE;Cats;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.99;22.79;30;20;40
+PRE31GB;PRE;Dancing Time;;PUZZLE;Wild;1000;Standard;Standard;Standard;18.99;22.79;26;10;30
+PRE4ILL;PRE;Pretty in Pink;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;2;20;30
+PRE5BCS;PRE;The Dangerous Book for Boys;;PUZZLE;Astronomy;500;Standard;Standard;Standard;17.09;20.51;44;20;40
+PREEB9P;PRE;The Beatles;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;18.99;22.79;56;20;50
+PRESCH1;PRE;Simpsons Bowl-a-Rama;;PUZZLE;Comedy/Cartoon;500;Standard;Standard;Standard;17.09;20.51;24;20;30
+RAV001;RAV;Jigsaw Puzzle Glue;Covers approximately 1.5 square metres;GLUE;;0;;;;7.9;9.48;63;30;110
+RAV002;RAV;PUZZLE GLUE AND GO!;Permanently seals a 1000 piece puzzle. Bottle contains 4 ounces;GLUE;;0;;;;12.0;14.4;33;40;110
+RVZ50001;RAV;A New Thatch;;PUZZLE;Cottages;1000;Standard;Standard;Standard;18.99;22.79;28;10;40
+RVZ50002;RAV;Along the Esplanade;;PUZZLE;Cottages;500;Standard;Standard;Standard;13.3;15.96;1;20;40
+RVZ50003;RAV;Animal Kingdom;;PUZZLE;Big cats;1000;Standard;Standard;Standard;18.35;22.02;2;10;30
+RVZ50004;RAV;Animals of the World;;PUZZLE;Wild;60;Standard;Standard;Standard;17.09;20.51;43;20;40
+RVZ50006;RAV;Arctic Wolf.;;PUZZLE;Wild;1000;Standard;Standard;Glow in the Dark;21.36;25.63;4;0;35
+RVZ50007;RAV;Are you being served?;;PUZZLE;Buses;500;2 Puzzles in a Box;Standard;Standard;19.15;22.98;44;20;50
+RVZ50008;RAV;At the Motorworks;;PUZZLE;Cars;500;Standard;Standard;Standard;13.3;15.96;35;10;50
+RVZ50009;RAV;Ben 10;;PUZZLE;Childrens;96;Standard;Puzzleball;Standard;22.8;27.36;17;0;85
+RVZ50010;RAV;Beneath the Sea;;PUZZLE;Sealife;1000;Standard;Standard;Glow in the Dark;21.36;25.63;13;0;70
+RVZ50011;RAV;Bob the Builder;;PUZZLE;Childrens;0;4 Puzzles in a Box;Standard;Standard;11.64;13.97;32;20;40
+RVZ50012;RAV;Branch Line Station;;PUZZLE;Cars;500;Standard;Standard;Standard;13.3;15.96;53;20;40
+RVZ50013;RAV;British Isles Map;;PUZZLE;World;60;Standard;Standard;Standard;15.53;18.64;7;20;40
+RVZ50014;RAV;Canalside Memories;;PUZZLE;Waterways;1000;Standard;Standard;Standard;17.09;20.51;24;20;50
+RVZ50015;RAV;Cars;;PUZZLE;Disney;96;Standard;Puzzleball;Standard;20.9;25.08;7;0;50
+RVZ50016;RAV;Cat Conundrums;;PUZZLE;Birds;500;Standard;Standard;Standard;13.36;16.03;10;20;40
+RVZ50017;RAV;Cats Galore!;;PUZZLE;Birds;1000;Standard;Standard;Standard;17.09;20.51;48;10;40
+RVZ50018;RAV;Cats in the Toyshop;;PUZZLE;Birds;1000;Standard;Standard;Standard;17.09;20.51;44;10;40
+RVZ50019;RAV;Charlie and Lola;;PUZZLE;PreSchool;60;Standard;Standard;Standard;17.48;20.98;45;10;40
+RVZ50020;RAV;Christmas Market;;PUZZLE;Christmas;1000;Standard;Standard;Standard;20.9;25.08;7;0;55
+RVZ50021;RAV;Cottage at Bibury, Gloucestershire;;PUZZLE;Cottages;500;Standard;Standard;Standard;13.06;15.67;1;20;50
+RVZ50022;RAV;Cottage in Kemerton, Worcestershire;;PUZZLE;Cottages;500;Standard;Standard;Standard;13.3;15.96;41;10;50
+RVZ50023;RAV;Countryside Retreat;;PUZZLE;Cottages;1000;Standard;Standard;Standard;17.48;20.98;38;20;50
+RVZ50024;RAV;Crail Harbour by Ravensburger;;PUZZLE;Harbours;1000;Standard;Standard;Standard;17.09;20.51;27;20;50
+RVZ50025;RAV;Crazy Cats Allotment;;PUZZLE;Birds;500;Standard;Standard;Standard;13.36;16.03;37;10;40
+RVZ50026;RAV;Crazy Cats at Home;;PUZZLE;Birds;500;Standard;Standard;Standard;13.36;16.03;56;20;40
+RVZ50027;RAV;Crazy Cats at the Shops;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.47;22.16;14;20;50
+RVZ50028;RAV;Crazy Cats in the Garden;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.99;22.79;1;20;30
+RVZ50029;RAV;Disney Fairies;;PUZZLE;Childrens;100;Standard;Standard;Glow in the Dark;17.48;20.98;11;20;40
+RVZ50030;RAV;Disney Princesses;;PUZZLE;PreSchool;0;4 Puzzles in a Box;Shaped Puzzle;Standard;17.48;20.98;22;20;40
+RVZ50031;RAV;Disney World Map;;PUZZLE;Disney;1000;Standard;Standard;Standard;21.13;25.36;1;0;15
+RVZ50032;RAV;Disney's Finest;;PUZZLE;Disney;125;Standard;Standard;Standard;17.32;20.78;13;10;40
+RVZ50033;RAV;Doctor Who;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;20.9;25.08;7;0;45
+RVZ50034;RAV;Dora the Explorer;;PUZZLE;PreSchool;25;2 Puzzles in a Box;Standard;Standard;9.49;11.39;34;10;40
+RVZ50035;RAV;Fiery Flight;;PUZZLE;Fantasy;1000;Standard;Standard;Glow in the Dark;20.39;24.47;18;0;105
+RVZ50036;RAV;From Garden to Plate;;PUZZLE;Food and Drink;1000;Standard;Standard;Standard;19.19;23.03;41;20;30
+RVZ50037;RAV;Full Steam Ahead;;PUZZLE;Trains;1000;Standard;Standard;Standard;17.09;20.51;15;10;30
+RVZ50038;RAV;Geisha;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;17.15;20.58;14;10;40
+RVZ50039;RAV;Grand Union Canal, Tring;;PUZZLE;Caribbean;500;Standard;Standard;Standard;13.3;15.96;52;10;50
+RVZ50040;RAV;Great British Garden Birds;;PUZZLE;Birds;1000;Standard;Standard;Standard;18.47;22.16;53;20;50
+RVZ50041;RAV;Greeting the Vet;;PUZZLE;Farm Life;500;Standard;Standard;Standard;13.3;15.96;50;10;40
+RVZ50042;RAV;Happy Days Lake District;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;17.09;20.51;53;20;30
+RVZ50043;RAV;Happy Days Lynmouth;;PUZZLE;Beaches;1000;Standard;Standard;Standard;17.09;20.51;13;20;50
+RVZ50044;RAV;Happy Days, London;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;17.09;20.51;32;10;40
+RVZ50045;RAV;Happy Days, The Cotswolds;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;17.09;20.51;15;20;50
+RVZ50046;RAV;Happy Days, Whitby;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;17.09;20.51;16;10;40
+RVZ50047;RAV;Harbourside Memories;;PUZZLE;Beaches;500;2 Puzzles in a Box;Standard;Standard;18.99;22.79;55;10;40
+RVZ50048;RAV;Hello Kitty;;PUZZLE;Birds;100;Standard;Standard;Standard;13.59;16.31;47;20;40
+RVZ50049;RAV;Hertfordshire Cottage;;PUZZLE;Cottages;1000;Standard;Standard;Standard;17.09;20.51;18;20;30
+RVZ50050;RAV;Historic World Map;;PUZZLE;World;540;Standard;Puzzleball;Standard;38.86;46.63;3;0;35
+RVZ50051;RAV;Historic World Map, 1636;;PUZZLE;World;1500;Standard;Standard;Standard;24.69;29.63;5;0;45
+RVZ50052;RAV;Holiday Favourites in Wales;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;18.99;22.79;58;10;30
+RVZ50053;RAV;Holiday Memories;;PUZZLE;Cars;500;2 Puzzles in a Box;Standard;Standard;18.99;22.79;10;10;40
+RVZ50054;RAV;Hong Kong;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Glow in the Dark;21.36;25.63;7;0;40
+RVZ50055;RAV;Household Favourites;;PUZZLE;Food and Drink;1000;Standard;Standard;Standard;18.35;22.02;21;20;40
+RVZ50056;RAV;Ice Dragon;;PUZZLE;Fantasy;1000;Standard;Shaped Puzzle;Standard;19.8;23.76;16;10;40
+RVZ50057;RAV;In the Night Garden;;PUZZLE;PreSchool;0;Standard;Standard;Wooden Puzzle;17.09;20.51;56;10;40
+RVZ50058;RAV;Indiana Jones;;PUZZLE;Hollywood;100;Standard;Standard;Standard;13.3;15.96;4;20;40
+RVZ50060;RAV;Iris;;PUZZLE;Van Gogh;1000;Standard;Standard;Standard;17.15;20.58;54;10;50
+RVZ50061;RAV;Junior World Globe;;PUZZLE;Childrens;96;Standard;Puzzleball;Standard;21.36;25.63;2;0;25
+RVZ50062;RAV;Kitten in the Playroom;;PUZZLE;Birds;500;Standard;Standard;Standard;13.3;15.96;43;10;30
+RVZ50063;RAV;Leeds Castle, Kent, England;;PUZZLE;Castles;500;Standard;Standard;Standard;13.3;15.96;53;10;40
+RVZ50064;RAV;Lifting the Crop;;PUZZLE;Farm Life;1000;Standard;Standard;Standard;17.09;20.51;8;10;50
+RVZ50065;RAV;Little Princess;;PUZZLE;PreSchool;60;Standard;Standard;Standard;17.32;20.78;37;10;40
+RVZ50066;RAV;London A View to the West;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;17.09;20.51;41;20;30
+RVZ50067;RAV;Look and Find. Dolphins;;PUZZLE;Sealife;1000;Standard;Standard;Standard;17.09;20.51;42;20;30
+RVZ50068;RAV;Look and Find. White Tiger;;PUZZLE;Big cats;1000;Standard;Standard;Standard;17.09;20.51;1;20;50
+RVZ50069;RAV;Magical Witches;;PUZZLE;Childrens;300;Standard;Standard;Standard;13.3;15.96;32;20;30
+RVZ50070;RAV;Market Place in Istanbul;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;18.99;22.79;55;20;30
+RVZ50071;RAV;Mother Earth;;PUZZLE;Big cats;2000;Standard;Standard;Standard;38.01;45.61;5;0;30
+RVZ50072;RAV;My Disney Princesses;;PUZZLE;Childrens;96;Standard;Puzzleball;Standard;22.8;27.36;8;0;55
+RVZ50073;RAV;Neuschwanstein In Winter;;PUZZLE;Castles;1500;Standard;Standard;Standard;24.69;29.63;16;0;85
+RVZ50074;RAV;New Wonders of the World;;PUZZLE;Famous Landmarks;2000;Standard;Standard;Standard;32.31;38.77;19;0;115
+RVZ50075;RAV;Noddy;;PUZZLE;PreSchool;25;4 Puzzles in a Box;Standard;Standard;11.55;13.86;41;20;50
+RVZ50076;RAV;Norfolk Sail Boats;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;17.09;20.51;6;10;50
+RVZ50077;RAV;Numberjacks;;PUZZLE;PreSchool;21;Standard;Standard;Standard;17.32;20.78;50;20;30
+RVZ50078;RAV;Oceanic Wonders;;PUZZLE;Sealife;3000;Standard;Standard;Standard;38.01;45.61;7;0;55
+RVZ50079;RAV;On Patrol;;PUZZLE;Cars;500;Standard;Standard;Standard;13.3;15.96;11;10;40
+RVZ50080;RAV;On the Farm;;PUZZLE;PreSchool;25;Standard;Standard;Standard;11.39;13.67;30;10;40
+RVZ50081;RAV;On the Move;;PUZZLE;PreSchool;25;Standard;Standard;Standard;17.09;20.51;29;10;30
+RVZ50083;RAV;Oxford University Historic UK Map;;PUZZLE;World;1000;Standard;Standard;Standard;18.06;21.67;36;10;50
+RVZ50084;RAV;Padstow Harbour, Cornwall;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;17.09;20.51;43;10;40
+RVZ50085;RAV;Pets on a Puzzle;;PUZZLE;Birds;500;Standard;Standard;Standard;13.3;15.96;55;20;30
+RVZ50086;RAV;Ponies;;PUZZLE;Horses;500;Standard;Standard;Standard;13.3;15.96;0;10;40
+RVZ50087;RAV;Power Rangers;;PUZZLE;Childrens;60;Standard;Standard;Standard;11.39;13.67;52;20;50
+RVZ50088;RAV;Power Rangers - Operation Overdrive;;PUZZLE;Childrens;100;Standard;Standard;Standard;13.3;15.96;12;10;50
+RVZ50089;RAV;Railway Memories;;PUZZLE;Trains;500;2 Puzzles in a Box;Standard;Standard;18.99;22.79;43;20;40
+RVZ50090;RAV;Reef Sharks;;PUZZLE;Sealife;500;Standard;Standard;Standard;13.3;15.96;40;10;30
+RVZ50091;RAV;Rescue Vehicles 3 in a box;;PUZZLE;PreSchool;25;Standard;Standard;Standard;11.39;13.67;5;20;40
+RVZ50092;RAV;Riverside Cottages;;PUZZLE;Cottages;500;2 Puzzles in a Box;Standard;Standard;18.99;22.79;47;10;40
+RVZ50093;RAV;Rose Cottage;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;18.92;22.7;36;10;40
+RVZ50094;RAV;Salzburg;;PUZZLE;Castles;1000;Standard;Standard;Standard;18.35;22.02;43;20;40
+RVZ50095;RAV;Santa's Christmas Supper;;PUZZLE;Christmas;1000;Standard;Standard;Standard;19.19;23.03;21;20;40
+RVZ50096;RAV;Santas Christmas Wonderland;;PUZZLE;Christmas;200;Standard;Standard;Standard;15.32;18.38;12;20;40
+RVZ50097;RAV;Scenic London;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;17.09;20.51;17;10;30
+RVZ50098;RAV;Seaside Memories;;PUZZLE;Beaches;1000;Standard;Standard;Standard;17.09;20.51;8;10;40
+RVZ50099;RAV;Seasonal Serenity;;PUZZLE;Countryside;500;2 Puzzles in a Box;Standard;Standard;18.99;22.79;58;20;40
+RVZ50100;RAV;Serenade - Kinuko;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;20.9;25.08;14;0;80
+RVZ50101;RAV;Signs of the Zodiac;;PUZZLE;Astrology;5000;Standard;Standard;Standard;76.03;91.24;5;0;40
+RVZ50102;RAV;Skylines of the World;;PUZZLE;Famous Landmarks;18000;Standard;Standard;Standard;228.13;273.76;11;0;70
+RVZ50103;RAV;Sleeping Kitten;;PUZZLE;Birds;1500;Standard;Standard;Standard;24.69;29.63;10;0;75
+RVZ50104;RAV;St. Peters Cathedral in Rome;;PUZZLE;Famous Landmarks;3000;Standard;Standard;Standard;38.01;45.61;13;0;80
+RVZ50105;RAV;Star Wars;;PUZZLE;Hollywood;500;Standard;Standard;Standard;13.3;15.96;40;10;40
+RVZ50106;RAV;Star Wars Clone Wars;;PUZZLE;Hollywood;100;Standard;Standard;Standard;13.59;16.31;0;10;30
+RVZ50107;RAV;Tatty Teddy;;PUZZLE;Flowers and Gardens;1000;Standard;Standard;Standard;21.36;25.63;8;0;45
+RVZ50108;RAV;The Ballet Class;;PUZZLE;Degas;1000;Standard;Standard;Standard;17.15;20.58;6;10;50
+RVZ50109;RAV;The Best Disney Themes;;PUZZLE;Disney;1000;Standard;Standard;Standard;18.99;22.79;35;10;40
+RVZ50110;RAV;The Bombardment of Algiers;;PUZZLE;Ships;9000;Standard;Standard;Standard;136.06;163.27;19;0;100
+RVZ50111;RAV;The Country Postman;;PUZZLE;Landscapes;1000;Standard;Standard;Standard;18.47;22.16;18;10;50
+RVZ50112;RAV;The Dog;;PUZZLE;Dogs;1000;Standard;Standard;Standard;18.99;22.79;35;20;50
+RVZ50113;RAV;The Flying Scotsman;;PUZZLE;Trains;500;Standard;Standard;Standard;13.3;15.96;57;20;40
+RVZ50114;RAV;The Great British Allotment;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;57;10;40
+RVZ50115;RAV;The Ocean;;PUZZLE;Sealife;240;Standard;Puzzleball;Standard;24.69;29.63;15;0;90
+RVZ50116;RAV;The Packet House;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;17.09;20.51;11;20;50
+RVZ50117;RAV;The Rivals;;PUZZLE;Buses;500;Standard;Standard;Standard;13.3;15.96;37;20;40
+RVZ50118;RAV;The Thames;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;17.09;20.51;51;20;40
+RVZ50119;RAV;The World;;PUZZLE;World;540;Standard;Puzzleball;Standard;38.86;46.63;8;0;50
+RVZ50120;RAV;The World of Disney 2;;PUZZLE;Disney;1000;Standard;Standard;Standard;20.9;25.08;7;0;50
+RVZ50121;RAV;The World of Disney I;;PUZZLE;Disney;1000;Standard;Standard;Standard;20.9;25.08;16;0;105
+RVZ50122;RAV;Thomas and Friends;;PUZZLE;PreSchool;0;4 Puzzles in a Box;Standard;Standard;11.55;13.86;26;10;30
+RVZ50123;RAV;Thomas Right on Time;;PUZZLE;Childrens;60;Standard;Circular Puzzle;Standard;15.18;18.22;57;10;30
+RVZ50124;RAV;Three Easter Puzzleballs;;PUZZLE;Childrens;30;Standard;Standard;Standard;17.48;20.98;28;20;50
+RVZ50125;RAV;Tigers At the Water Hole;;PUZZLE;Big cats;2000;Standard;Standard;Standard;32.31;38.77;11;0;70
+RVZ50126;RAV;Trafalgar Square;;PUZZLE;Famous Landmarks;500;Standard;Standard;Standard;13.3;15.96;42;20;40
+RVZ50127;RAV;Tulip Cottage;;PUZZLE;Cottages;1000;Standard;Standard;Standard;18.92;22.7;58;10;50
+RVZ50128;RAV;Turf Fen Mill;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;17.09;20.51;52;20;50
+RVZ50129;RAV;Venetian Impressions;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;18.99;22.79;1;10;50
+RVZ50130;RAV;Venice;;PUZZLE;Canaletto;1000;Standard;Standard;Standard;17.15;20.58;58;10;40
+RVZ50131;RAV;Warwick Castle;;PUZZLE;Castles;500;Standard;Standard;Standard;13.3;15.96;48;10;40
+RVZ50132;RAV;Weymouth Harbour;;PUZZLE;Caribbean;500;Standard;Standard;Standard;13.3;15.96;15;10;30
+RVZ50133;RAV;White Tiger Cub;;PUZZLE;Big cats;1000;Standard;Standard;Glow in the Dark;21.36;25.63;1;0;30
+RVZ50134;RAV;Wild Rose Bouquet;;PUZZLE;Flowers and Gardens;1000;Standard;Standard;Standard;18.06;21.67;47;20;50
+RVZ50135;RAV;Willy Lott's Cottage;;PUZZLE;Cottages;500;Standard;Standard;Standard;13.3;15.96;46;10;40
+RVZ50136;RAV;Winnie the Pooh;;PUZZLE;Childrens;500;2 Puzzles in a Box;Standard;Standard;18.99;22.79;2;10;30
+RVZ50137;RAV;Winnie The Pooh Around the Campfire;;PUZZLE;Disney;1000;Standard;Standard;Standard;20.43;24.52;7;0;45
+RVZ50138;RAV;York Minster and Newgate Market;;PUZZLE;Famous Landmarks;500;Standard;Standard;Standard;13.3;15.96;33;20;40
+RVZ50139;RAV;Yorkie in the Garden;;PUZZLE;Dogs;500;Standard;Standard;Standard;13.3;15.96;25;20;40
+SCH43TS;SCH;Hong Kong;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;17.15;20.58;2;20;30
+SCH6NQ8;SCH;Dinner for the Famous;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;15;10;30
+SER10PH;SER;Fence Check;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;20.9;25.08;19;0;115
+SER17PO;SER;Red Tail Pass;;PUZZLE;Miscellany;1000;Standard;Standard;Standard;20.9;25.08;5;0;25
+SER19E7;SER;Dragons of the World;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;19.42;23.3;9;10;30
+SER1N97;SER;Autumn's Blessing;;PUZZLE;Miscellany;1500;Standard;Standard;Standard;26.59;31.91;2;0;15
+SER2Q4S;SER;Buffalo Moon.;;PUZZLE;Fantasy;800;Standard;Shaped Puzzle;Standard;22.8;27.36;6;0;40
+SER3G26;SER;Christmas Traditions;;PUZZLE;Christmas;1000;Standard;Standard;Standard;21.13;25.36;7;0;45
+SER3OCE;SER;Release of the Dragon;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;20.9;25.08;11;0;80
+SER44Q8;SER;Arctic Blast;;PUZZLE;Wild;1000;Standard;Standard;Standard;20.9;25.08;0;0;0
+SER45S3;SER;Unicorn Kingdom;;PUZZLE;Fantasy;800;Standard;Shaped Puzzle;Standard;22.8;27.36;13;0;90
+SER47NN;SER;Biodiversity;;PUZZLE;Sealife;800;Standard;Standard;Standard;23.76;28.51;7;0;55
+SER4LIN;SER;Desert Kingdom;;PUZZLE;Miscellany;800;Standard;Shaped Puzzle;Standard;22.8;27.36;17;0;95
+SER4SD1;SER;Indian Summer;;PUZZLE;Horses;1000;Standard;Standard;Standard;19.19;23.03;50;10;40
+SER53P0;SER;Pig Pile.;;PUZZLE;Wild;300;Standard;Circular Puzzle;Standard;14.42;17.3;30;10;40
+SER5QGC;SER;A day at the Beauty Parlour;;PUZZLE;Horses;550;Standard;Standard;Standard;15.32;18.38;51;20;40
+SER68UV;SER;Elegant Travels;;PUZZLE;Caribbean;1000;Standard;Standard;Standard;20.9;25.08;2;0;25
+SER6LP3;SER;Glade Creek Mill;;PUZZLE;Countryside;1500;Standard;Standard;Standard;26.59;31.91;3;0;25
+SER6UPH;SER;Catch the Wave;;PUZZLE;Sealife;800;Standard;Standard;Standard;20.9;25.08;5;0;30
+SER78OC;SER;Rascals in the Garden;;PUZZLE;Dogs;550;Standard;Standard;Standard;17.15;20.58;17;10;40
+SER7HA7;SER;Catalina Landing;;PUZZLE;Harbours;1000;Standard;Standard;Standard;20.9;25.08;7;0;50
+SERL0MD;SER;Dynasty;;PUZZLE;Horses;1000;Standard;Shaped Puzzle;Standard;20.9;25.08;6;0;30
+SUN17EL;SUN;Daydreamer;;PUZZLE;Big cats;1000;Standard;Standard;Standard;22.8;27.36;11;0;65
+SUN1CPK;SUN;Butterfly Farm;;PUZZLE;Animals – Butterflies;0;Standard;Shaped Puzzle;Standard;22.8;27.36;10;0;65
+SUN1MO7;SUN;Dragon Guardian;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;22.8;27.36;1;0;30
+SUN2LBD;SUN;White Beauty;;PUZZLE;Big cats;1000;Standard;Shaped Puzzle;Standard;28.5;34.2;4;0;35
+SUN2MRE;SUN;Butterfly Maiden;;PUZZLE;Animals – Butterflies;500;Standard;Shaped Puzzle;Standard;13.2;15.84;53;10;40
+SUN2SSF;SUN;California, Sun & Fun;;PUZZLE;USA;1000;Standard;Shaped Puzzle;Standard;22.8;27.36;18;0;100
+SUN348B;SUN;Wonderlands;;PUZZLE;Places – World;600;Standard;Shaped Puzzle;Standard;20.39;24.47;18;0;100
+SUN43T0;SUN;The Parables.;;PUZZLE;Religious;1500;Standard;Standard;Standard;28.5;34.2;17;0;105
+SUN45GR;SUN;Arizona;;PUZZLE;USA;1000;Standard;Shaped Puzzle;Standard;20.4;24.48;11;0;75
+SUN4F3D;SUN;In the Wild;;PUZZLE;Birds;1000;Standard;Standard;Standard;22.8;27.36;1;0;20
+SUN50RC;SUN;Sedona;;PUZZLE;Horses;800;Standard;Shaped Puzzle;Standard;22.8;27.36;3;0;20
+SUN54C4;SUN;Japanese Garden;;PUZZLE;Places – Asia;1000;Standard;Shaped Puzzle;Standard;20.4;24.48;4;0;40
+SUN6IRA;SUN;All the Worlds a Stage;;PUZZLE;Comedy/Cartoon;1500;Standard;Standard;Standard;28.5;34.2;9;0;60
+SUN6S51;SUN;Swim Lessons;;PUZZLE;Animals – sealife;1000;Standard;Shaped Puzzle;Standard;20.4;24.48;17;0;110
+SUN78P0;SUN;Dragon Collage;;PUZZLE;Fantasy;1500;Standard;Standard;Standard;28.5;34.2;14;0;90
+SUN7H4U;SUN;Golden Memories;;PUZZLE;Animals – Dogs;900;Standard;Shaped Puzzle;Standard;18.0;21.6;24;10;40
+SUNSCBD;SUN;Herd of Elephants;;PUZZLE;Wild;1000;Standard;Shaped Puzzle;Standard;28.5;34.2;4;0;35
+TAI105D;TAI;Diarmuid and Grainne;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;25.25;30.3;1;0;25
+TAI2BU0;TAI;Queen Maeve;;PUZZLE;Farm Life;1000;Standard;Standard;Standard;25.25;30.3;12;0;80
+TAI3NM4;TAI;Finn McCool;;PUZZLE;Fantasy;1000;Standard;Standard;Standard;25.25;30.3;15;0;90
+TAI4AID;TAI;Twelve Days of Christmas;;PUZZLE;Christmas;1000;Standard;Standard;Standard;25.25;30.3;13;0;75
+TAI6OV7;TAI;St. Patrick;;PUZZLE;Religious;1000;Standard;Standard;Standard;25.25;30.3;13;0;90
+TAI7E0E;TAI;St. Brendan The Navigator;;PUZZLE;World;1000;Standard;Standard;Standard;25.25;30.3;15;0;95
+TAIT4DQ;TAI;Yuletide Offerings;;PUZZLE;Christmas;500;Standard;Standard;Standard;17.48;20.98;43;10;30
+TDC1221;TDC;Flora of the USA;;PUZZLE;USA;1000;Standard;Shaped Puzzle;Standard;20.4;24.48;15;0;90
+TDC1CLT;TDC;Lost Puzzle #1 - The Hatch;;PUZZLE;Hollywood;1000;Standard;Standard;Standard;74.4;89.28;18;0;110
+TDC3MEN;TDC;Lost Puzzle #3 - The Numbers;;PUZZLE;Hollywood;1000;Standard;Standard;Standard;10.86;13.03;38;20;50
+TDC42SD;TDC;Lost Puzzle #2 - The Others;;PUZZLE;Hollywood;1000;Standard;Standard;Standard;10.86;13.03;31;10;50
+TDC6PP0;TDC;Lost Puzzle #4 - Before The Crash;;PUZZLE;Hollywood;1000;Standard;Standard;Standard;47.82;57.38;17;0;105
+TOY12UA;TOY;Ski-ing Mayhem!;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;49;20;30
+TOY24VP;TOY;Winter;;PUZZLE;Breughel;500;Standard;Standard;Standard;13.3;15.96;16;20;40
+TOY283O;TOY;Fun at The Acropolis;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;41;10;40
+TOY2EKK;TOY;Building the Pyramid!;;PUZZLE;Comedy/Cartoon;1000;Standard;Standard;Standard;18.99;22.79;7;20;40
+TOY3H1T;TOY;Sunflowers;;PUZZLE;Van Gogh;1000;Standard;Standard;Standard;17.09;20.51;43;20;40
+TOY59SB;TOY;Summer.;;PUZZLE;Artists;500;Standard;Standard;Standard;13.3;15.96;17;20;30
+TOY5C48;TOY;The Posing Whale!;;PUZZLE;Sealife;1000;Standard;Standard;Standard;18.99;22.79;1;10;30
+TOY79NV;TOY;London;;PUZZLE;Famous Landmarks;1000;Standard;Standard;Standard;18.99;22.79;1;10;40
+TOY7TND;TOY;Summer;;PUZZLE;Breughel;500;Standard;Standard;Standard;13.3;15.96;35;10;50
+TOY7UFP;TOY;Autumn;;PUZZLE;Breughel;500;Standard;Standard;Standard;13.3;15.96;16;20;40
+TOYIQBA;TOY;Ghent, Belgium;;PUZZLE;Horses;1000;Standard;Standard;Standard;18.99;22.79;7;20;40
+WHI2UBC;WHI;Kissing Moose;;PUZZLE;Wild;1000;Standard;Standard;Standard;17.09;20.51;14;10;40
+WHI5JRO;WHI;O Night Divine;;PUZZLE;Christmas;1000;Standard;Standard;Standard;22.8;27.36;8;0;60
+WHI6SHS;WHI;Autumn Quilts;;PUZZLE;Farm Life;1000;Standard;Standard;Standard;22.8;27.36;4;0;30
+WHIBUPM;WHI;Last Mission for NINE-O-NINE;;PUZZLE;Airplanes;1000;Standard;Standard;Standard;22.8;27.36;6;0;40
