@@ -3,33 +3,27 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Examen3;
+package ExamenFinal;
 
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
 import java.io.File;
+import java.io.FileReader;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.swing.table.AbstractTableModel;
 
 /**
  *
  * @author Karen
  */
-public class TablaInventario extends AbstractTableModel {
-
+public class FormaPago extends AbstractTableModel{
     
     int i = 0;
     private String m[][];
     private String names[];
     private String nombreArchivo;
-    int cFrame = 0, cGlue = 0, cPuzzle = 0, cStorage = 0;
-
-    //Lee el archivo y cuenta los objetos
+    int cAmex = 0, cCash = 0, cChec = 0, cMast = 0, cOthe = 0, cVisa =0 ;
+    
     public void leerArchivo() {
         
         try {
@@ -41,61 +35,49 @@ public class TablaInventario extends AbstractTableModel {
             String [] arregloLinea = null;
             
             Map mapa = new HashMap<String, Integer>();
-            mapa.put("FRAME", cFrame);
-            mapa.put("GLUE", cGlue);
-            mapa.put("PUZZLE", cPuzzle);
-            mapa.put("STORAGE", cStorage);
+            mapa.put("AMEX", cAmex);
+            mapa.put("CASH", cCash);
+            mapa.put("CHEC", cChec);
+            mapa.put("MAST", cMast);
+            mapa.put("OTHE", cOthe);
+            mapa.put("VISA", cVisa);
             
             linea = br.readLine();
             while(linea != null){
                 arregloLinea = linea.split(";");
                 switch(arregloLinea[4]){
-                    case "FRAME": cFrame++;
+                    case "AMEX": cAmex++;
                     break;
-                    case "GLUE": cGlue++;
+                    case "CASH": cCash++;
                     break;
-                    case "PUZZLE": cPuzzle++;
+                    case "CHEC": cChec++;
                     break;
-                    default: cStorage++;
+                    case "MAST": cMast++;
+                    break;
+                    case "OTHE": cOthe++;
+                    break;
+                    
+                    default: cVisa++;
                     break;
                     
                 }
             }
         }catch(Exception e){}
     }
-    
-    public int getFrame(){
-        return cFrame;
-    }
 
-    public int getcGlue() {
-        return cGlue;
-    }
-
-    public int getcPuzzle() {
-        return cPuzzle;
-    }
-
-    public int getcStorage() {
-        return cStorage;
-    }
-    
-    
     @Override
     public int getRowCount() {
-        //throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates
-        return 5;
+        
     }
 
     @Override
     public int getColumnCount() {
-        //throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-        return 4;
+        
     }
 
     @Override
     public Object getValueAt(int rowIndex, int columnIndex) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
-
+    
 }
